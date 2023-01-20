@@ -1,157 +1,4 @@
 {
-	"NatDexNum":	899,
-	"SpeciesName":	"Wyrdeer",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Wyrdeer",
-	"VarName":	"Wyrdeer",
-	"DefName":	"WYRDEER",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Wyrdeer
-{
-	"NatDexNum":	900,
-	"SpeciesName":	"Kleavor",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Kleavor",
-	"VarName":	"Kleavor",
-	"DefName":	"KLEAVOR",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Kleavor
-{
-	"NatDexNum":	901,
-	"SpeciesName":	"Ursaluna",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Ursaluna",
-	"VarName":	"Ursaluna",
-	"DefName":	"URSALUNA",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Ursaluna
-{
-	"NatDexNum":	902,
-	"SpeciesName":	"Basculegion",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Male Basculegion",
-	"VarName":	"Basculegion",
-	"DefName":	"BASCULEGION",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Basculegion
-{
-	"NatDexNum":	902,
-	"SpeciesName":	"Basculegion Female",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Female Basculegion",
-	"VarName":	"BasculegionFemale",
-	"DefName":	"BASCULEGION_FEMALE",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Basculegion
-{
-	"NatDexNum":	903,
-	"SpeciesName":	"Sneasler",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Sneasler",
-	"VarName":	"Sneasler",
-	"DefName":	"SNEASLER",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Sneasler
-{
-	"NatDexNum":	904,
-	"SpeciesName":	"Overqwil",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Overqwil",
-	"VarName":	"Overqwil",
-	"DefName":	"OVERQWIL",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Overqwil
-{
-	"NatDexNum":	905,
-	"SpeciesName":	"Enamorus",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Incarnate Form",
-	"VarName":	"EnamorusIncarnateForm",
-	"DefName":	"ENAMORUS_INCARNATE",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Enamorus
-{
-	"NatDexNum":	905,
-	"SpeciesName":	"Enamorus Therian Form",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Therian Form",
-	"VarName":	"EnamorusTherianForm",
-	"DefName":	"ENAMORUS_THERIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Enamorus
-{
 	"NatDexNum":	906,
 	"SpeciesName":	"Sprigatito",
 	"IsBaseForm":	true,
@@ -167,7 +14,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Sprigatito
+},//	"Sprigatito",
 {
 	"NatDexNum":	907,
 	"SpeciesName":	"Floragato",
@@ -184,7 +31,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Floragato
+},//	"Floragato",
 {
 	"NatDexNum":	908,
 	"SpeciesName":	"Meowscarada",
@@ -201,7 +48,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Meowscarada
+},//	"Meowscarada",
 {
 	"NatDexNum":	909,
 	"SpeciesName":	"Fuecoco",
@@ -218,7 +65,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Fuecoco
+},//	"Fuecoco",
 {
 	"NatDexNum":	910,
 	"SpeciesName":	"Crocalor",
@@ -235,7 +82,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Crocalor
+},//	"Crocalor",
 {
 	"NatDexNum":	911,
 	"SpeciesName":	"Skeledirge",
@@ -252,7 +99,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Skeledirge
+},//	"Skeledirge",
 {
 	"NatDexNum":	912,
 	"SpeciesName":	"Quaxly",
@@ -269,7 +116,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Quaxly
+},//	"Quaxly",
 {
 	"NatDexNum":	913,
 	"SpeciesName":	"Quaxwell",
@@ -286,7 +133,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Quaxwell
+},//	"Quaxwell",
 {
 	"NatDexNum":	914,
 	"SpeciesName":	"Quaquaval",
@@ -303,7 +150,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Quaquaval
+},//	"Quaquaval",
 {
 	"NatDexNum":	915,
 	"SpeciesName":	"Lechonk",
@@ -320,7 +167,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Lechonk
+},//	"Lechonk",
 {
 	"NatDexNum":	916,
 	"SpeciesName":	"Oinkologne",
@@ -337,7 +184,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Oinkologne
+},//	"Oinkologne",
 {
 	"NatDexNum":	917,
 	"SpeciesName":	"Tarountula",
@@ -354,7 +201,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Tarountula
+},//	"Tarountula",
 {
 	"NatDexNum":	918,
 	"SpeciesName":	"Spidops",
@@ -371,7 +218,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Spidops
+},//	"Spidops",
 {
 	"NatDexNum":	919,
 	"SpeciesName":	"Nymble",
@@ -388,7 +235,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Nymble
+},//	"Nymble",
 {
 	"NatDexNum":	920,
 	"SpeciesName":	"Lokix",
@@ -405,7 +252,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Lokix
+},//	"Lokix",
 {
 	"NatDexNum":	921,
 	"SpeciesName":	"Pawmi",
@@ -422,7 +269,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Pawmi
+},//	"Pawmi",
 {
 	"NatDexNum":	922,
 	"SpeciesName":	"Pawmo",
@@ -439,7 +286,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Pawmo
+},//	"Pawmo",
 {
 	"NatDexNum":	923,
 	"SpeciesName":	"Pawmot",
@@ -456,7 +303,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Pawmot
+},//	"Pawmot",
 {
 	"NatDexNum":	924,
 	"SpeciesName":	"Tandemaus",
@@ -473,7 +320,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Tandemaus
+},//	"Tandemaus",
 {
 	"NatDexNum":	925,
 	"SpeciesName":	"Maushold",
@@ -490,7 +337,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Maushold
+},//	"Maushold",
 {
 	"NatDexNum":	926,
 	"SpeciesName":	"Fidough",
@@ -507,7 +354,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Fidough
+},//	"Fidough",
 {
 	"NatDexNum":	927,
 	"SpeciesName":	"Dachsbun",
@@ -524,7 +371,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Dachsbun
+},//	"Dachsbun",
 {
 	"NatDexNum":	928,
 	"SpeciesName":	"Smoliv",
@@ -541,7 +388,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Smoliv
+},//	"Smoliv",
 {
 	"NatDexNum":	929,
 	"SpeciesName":	"Dolliv",
@@ -558,7 +405,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Dolliv
+},//	"Dolliv",
 {
 	"NatDexNum":	930,
 	"SpeciesName":	"Arboliva",
@@ -575,7 +422,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Arboliva
+},//	"Arboliva",
 {
 	"NatDexNum":	931,
 	"SpeciesName":	"Squawkabilly",
@@ -592,7 +439,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Squawkabilly
+},//	"Squawkabilly",
 {
 	"NatDexNum":	932,
 	"SpeciesName":	"Nacli",
@@ -609,7 +456,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Nacli
+},//	"Nacli",
 {
 	"NatDexNum":	933,
 	"SpeciesName":	"Naclstack",
@@ -626,7 +473,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Naclstack
+},//	"Naclstack",
 {
 	"NatDexNum":	934,
 	"SpeciesName":	"Garganacl",
@@ -643,7 +490,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Garganacl
+},//	"Garganacl",
 {
 	"NatDexNum":	935,
 	"SpeciesName":	"Charcadet",
@@ -660,7 +507,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Charcadet
+},//	"Charcadet",
 {
 	"NatDexNum":	936,
 	"SpeciesName":	"Armarouge",
@@ -677,7 +524,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Armarouge
+},//	"Armarouge",
 {
 	"NatDexNum":	937,
 	"SpeciesName":	"Ceruledge",
@@ -694,7 +541,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Ceruledge
+},//	"Ceruledge",
 {
 	"NatDexNum":	938,
 	"SpeciesName":	"Tadbulb",
@@ -711,7 +558,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Tadbulb
+},//	"Tadbulb",
 {
 	"NatDexNum":	939,
 	"SpeciesName":	"Bellibolt",
@@ -728,7 +575,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Bellibolt
+},//	"Bellibolt",
 {
 	"NatDexNum":	940,
 	"SpeciesName":	"Wattrel",
@@ -745,7 +592,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Wattrel
+},//	"Wattrel",
 {
 	"NatDexNum":	941,
 	"SpeciesName":	"Kilowattrel",
@@ -762,7 +609,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Kilowattrel
+},//	"Kilowattrel",
 {
 	"NatDexNum":	942,
 	"SpeciesName":	"Maschiff",
@@ -779,7 +626,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Maschiff
+},//	"Maschiff",
 {
 	"NatDexNum":	943,
 	"SpeciesName":	"Mabosstiff",
@@ -796,7 +643,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Mabosstiff
+},//	"Mabosstiff",
 {
 	"NatDexNum":	944,
 	"SpeciesName":	"Shroodle",
@@ -813,7 +660,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Shroodle
+},//	"Shroodle",
 {
 	"NatDexNum":	945,
 	"SpeciesName":	"Grafaiai",
@@ -830,7 +677,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Grafaiai
+},//	"Grafaiai",
 {
 	"NatDexNum":	946,
 	"SpeciesName":	"Bramblin",
@@ -847,7 +694,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Bramblin
+},//	"Bramblin",
 {
 	"NatDexNum":	947,
 	"SpeciesName":	"Brambleghast",
@@ -864,7 +711,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Brambleghast
+},//	"Brambleghast",
 {
 	"NatDexNum":	948,
 	"SpeciesName":	"Toedscool",
@@ -881,7 +728,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Toedscool
+},//	"Toedscool",
 {
 	"NatDexNum":	949,
 	"SpeciesName":	"Toedscruel",
@@ -898,7 +745,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Toedscruel
+},//	"Toedscruel",
 {
 	"NatDexNum":	950,
 	"SpeciesName":	"Klawf",
@@ -915,7 +762,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Klawf
+},//	"Klawf",
 {
 	"NatDexNum":	951,
 	"SpeciesName":	"Capsakid",
@@ -932,7 +779,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Capsakid
+},//	"Capsakid",
 {
 	"NatDexNum":	952,
 	"SpeciesName":	"Scovillain",
@@ -949,7 +796,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Scovillain
+},//	"Scovillain",
 {
 	"NatDexNum":	953,
 	"SpeciesName":	"Rellor",
@@ -966,7 +813,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Rellor
+},//	"Rellor",
 {
 	"NatDexNum":	954,
 	"SpeciesName":	"Rabsca",
@@ -983,7 +830,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Rabsca
+},//	"Rabsca",
 {
 	"NatDexNum":	955,
 	"SpeciesName":	"Flittle",
@@ -1000,7 +847,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Flittle
+},//	"Flittle",
 {
 	"NatDexNum":	956,
 	"SpeciesName":	"Espathra",
@@ -1017,7 +864,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Espathra
+},//	"Espathra",
 {
 	"NatDexNum":	957,
 	"SpeciesName":	"Tinkatink",
@@ -1034,7 +881,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Tinkatink
+},//	"Tinkatink",
 {
 	"NatDexNum":	958,
 	"SpeciesName":	"Tinkatuff",
@@ -1051,7 +898,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Tinkatuff
+},//	"Tinkatuff",
 {
 	"NatDexNum":	959,
 	"SpeciesName":	"Tinkaton",
@@ -1068,7 +915,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Tinkaton
+},//	"Tinkaton",
 {
 	"NatDexNum":	960,
 	"SpeciesName":	"Wiglett",
@@ -1085,7 +932,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Wiglett
+},//	"Wiglett",
 {
 	"NatDexNum":	961,
 	"SpeciesName":	"Wugtrio",
@@ -1102,7 +949,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Wugtrio
+},//	"Wugtrio",
 {
 	"NatDexNum":	962,
 	"SpeciesName":	"Bombirdier",
@@ -1119,7 +966,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Bombirdier
+},//	"Bombirdier",
 {
 	"NatDexNum":	963,
 	"SpeciesName":	"Finizen",
@@ -1136,7 +983,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Finizen
+},//	"Finizen",
 {
 	"NatDexNum":	964,
 	"SpeciesName":	"Palafin",
@@ -1153,7 +1000,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Palafin
+},//	"Zero Form",
 {
 	"NatDexNum":	964,
 	"SpeciesName":	"Palafin",
@@ -1170,7 +1017,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Palafin
+},//	"Hero Form",
 {
 	"NatDexNum":	965,
 	"SpeciesName":	"Varoom",
@@ -1187,7 +1034,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Varoom
+},//	"Varoom",
 {
 	"NatDexNum":	966,
 	"SpeciesName":	"Revavroom",
@@ -1204,7 +1051,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Revavroom
+},//	"Revavroom",
 {
 	"NatDexNum":	967,
 	"SpeciesName":	"Cyclizar",
@@ -1221,7 +1068,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Cyclizar
+},//	"Cyclizar",
 {
 	"NatDexNum":	968,
 	"SpeciesName":	"Orthworm",
@@ -1238,7 +1085,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Orthworm
+},//	"Orthworm",
 {
 	"NatDexNum":	969,
 	"SpeciesName":	"Glimmet",
@@ -1255,7 +1102,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Glimmet
+},//	"Glimmet",
 {
 	"NatDexNum":	970,
 	"SpeciesName":	"Glimmora",
@@ -1272,7 +1119,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Glimmora
+},//	"Glimmora",
 {
 	"NatDexNum":	971,
 	"SpeciesName":	"Greavard",
@@ -1289,7 +1136,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Greavard
+},//	"Greavard",
 {
 	"NatDexNum":	972,
 	"SpeciesName":	"Houndstone",
@@ -1306,7 +1153,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Houndstone
+},//	"Houndstone",
 {
 	"NatDexNum":	973,
 	"SpeciesName":	"Flamigo",
@@ -1323,7 +1170,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Flamigo
+},//	"Flamigo",
 {
 	"NatDexNum":	974,
 	"SpeciesName":	"Cetoddle",
@@ -1340,7 +1187,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Cetoddle
+},//	"Cetoddle",
 {
 	"NatDexNum":	975,
 	"SpeciesName":	"Cetitan",
@@ -1357,7 +1204,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Cetitan
+},//	"Cetitan",
 {
 	"NatDexNum":	976,
 	"SpeciesName":	"Veluza",
@@ -1374,7 +1221,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Veluza
+},//	"Veluza",
 {
 	"NatDexNum":	977,
 	"SpeciesName":	"Dondozo",
@@ -1391,7 +1238,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Dondozo
+},//	"Dondozo",
 {
 	"NatDexNum":	978,
 	"SpeciesName":	"Tatsugiri",
@@ -1408,7 +1255,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Tatsugiri
+},//	"Curly Form",
 {
 	"NatDexNum":	978,
 	"SpeciesName":	"Tatsugiri",
@@ -1425,7 +1272,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Tatsugiri
+},//	"Droopy Form",
 {
 	"NatDexNum":	978,
 	"SpeciesName":	"Tatsugiri",
@@ -1442,41 +1289,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Tatsugiri
-{
-	"NatDexNum":	980,
-	"SpeciesName":	"Clodsire",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Clodsire",
-	"VarName":	"Clodsire",
-	"DefName":	"CLODSIRE",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Clodsire
-{
-	"NatDexNum":	981,
-	"SpeciesName":	"Farigiraf",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Farigiraf",
-	"VarName":	"Farigiraf",
-	"DefName":	"FARIGIRAF",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Farigiraf
+},//	"Stretchy Form",
 {
 	"NatDexNum":	982,
 	"SpeciesName":	"Dudunsparce",
@@ -1493,24 +1306,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Dudunsparce
-{
-	"NatDexNum":	983,
-	"SpeciesName":	"Kingambit",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Kingambit",
-	"VarName":	"Kingambit",
-	"DefName":	"KINGAMBIT",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Kingambit
+},//	"Dudunsparce",
 {
 	"NatDexNum":	984,
 	"SpeciesName":	"Great Tusk",
@@ -1527,7 +1323,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Great
+},//	"Great Tusk",
 {
 	"NatDexNum":	985,
 	"SpeciesName":	"Scream Tail",
@@ -1544,7 +1340,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Scream
+},//	"Scream Tail",
 {
 	"NatDexNum":	986,
 	"SpeciesName":	"Brute Bonnet",
@@ -1561,7 +1357,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Brute
+},//	"Brute Bonnet",
 {
 	"NatDexNum":	987,
 	"SpeciesName":	"Flutter Mane",
@@ -1578,7 +1374,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Flutter
+},//	"Flutter Mane",
 {
 	"NatDexNum":	988,
 	"SpeciesName":	"Slither Wing",
@@ -1595,7 +1391,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Slither
+},//	"Slither Wing",
 {
 	"NatDexNum":	989,
 	"SpeciesName":	"Sandy Shocks",
@@ -1612,7 +1408,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Sandy
+},//	"Sandy Shocks",
 {
 	"NatDexNum":	990,
 	"SpeciesName":	"Iron Treads",
@@ -1629,7 +1425,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Iron
+},//	"Iron Treads",
 {
 	"NatDexNum":	991,
 	"SpeciesName":	"Iron Bundle",
@@ -1646,7 +1442,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Iron
+},//	"Iron Bundle",
 {
 	"NatDexNum":	992,
 	"SpeciesName":	"Iron Hands",
@@ -1663,7 +1459,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Iron
+},//	"Iron Hands",
 {
 	"NatDexNum":	993,
 	"SpeciesName":	"Iron Jugulis",
@@ -1680,7 +1476,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Iron
+},//	"Iron Jugulis",
 {
 	"NatDexNum":	994,
 	"SpeciesName":	"Iron Moth",
@@ -1697,7 +1493,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Iron
+},//	"Iron Moth",
 {
 	"NatDexNum":	995,
 	"SpeciesName":	"Iron Thorns",
@@ -1714,7 +1510,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Iron
+},//	"Iron Thorns",
 {
 	"NatDexNum":	996,
 	"SpeciesName":	"Frigibax",
@@ -1731,7 +1527,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Frigibax
+},//	"Frigibax",
 {
 	"NatDexNum":	997,
 	"SpeciesName":	"Arctibax",
@@ -1748,7 +1544,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Arctibax
+},//	"Arctibax",
 {
 	"NatDexNum":	998,
 	"SpeciesName":	"Baxcalibur",
@@ -1765,7 +1561,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	false
-},//Baxcalibur
+},//	"Baxcalibur",
 {
 	"NatDexNum":	999,
 	"SpeciesName":	"Gimmighoul",
@@ -1782,7 +1578,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Gimmighoul
+},//	"Chest Form",
 {
 	"NatDexNum":	999,
 	"SpeciesName":	"Gimmighoul",
@@ -1799,7 +1595,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Gimmighoul
+},//	"Roaming Form",
 {
 	"NatDexNum":	1000,
 	"SpeciesName":	"Gholdengo",
@@ -1816,7 +1612,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Gholdengo
+},//	"Gholdengo",
 {
 	"NatDexNum":	1001,
 	"SpeciesName":	"Wo-Chien",
@@ -1833,7 +1629,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Wo
+},//	"Wo-Chien",
 {
 	"NatDexNum":	1002,
 	"SpeciesName":	"Chien-Pao",
@@ -1850,7 +1646,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Chien
+},//	"Chien-Pao",
 {
 	"NatDexNum":	1003,
 	"SpeciesName":	"Ting-Lu",
@@ -1867,7 +1663,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Ting
+},//	"Ting-Lu",
 {
 	"NatDexNum":	1004,
 	"SpeciesName":	"Chi-Yu",
@@ -1884,7 +1680,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Chi
+},//	"Chi-Yu",
 {
 	"NatDexNum":	1005,
 	"SpeciesName":	"Roaring Moon",
@@ -1901,7 +1697,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Roaring
+},//	"Roaring Moon",
 {
 	"NatDexNum":	1006,
 	"SpeciesName":	"Iron Valiant",
@@ -1918,7 +1714,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Iron
+},//	"Iron Valiant",
 {
 	"NatDexNum":	1007,
 	"SpeciesName":	"Koraidon",
@@ -1935,7 +1731,7 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Koraidon
+},//	"Koraidon",
 {
 	"NatDexNum":	1008,
 	"SpeciesName":	"Miraidon",
@@ -1952,327 +1748,4 @@
 	"usesBaseFormLearnset":	false,
 	"ignoresNearUniversalTMs":	false,
 	"isGenderless":	true
-},//Miraidon
-{
-	"NatDexNum":	483,
-	"SpeciesName":	"Dialga",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Origin Form",
-	"VarName":	"DialgaOriginForm",
-	"DefName":	"DIALGA_ORIGIN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	true
-},//Dialga
-{
-	"NatDexNum":	484,
-	"SpeciesName":	"Palkia",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Origin Form",
-	"VarName":	"PalkiaOriginForm",
-	"DefName":	"PALKIA_ORIGIN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	true
-},//Palkia
-{
-	"NatDexNum":	550,
-	"SpeciesName":	"Basculin",
-	"IsBaseForm":	true,
-	"CanHatchFromEgg":	true,
-	"FormName":	"White-Striped Form",
-	"VarName":	"Basculin",
-	"DefName":	"BASCULIN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Basculin
-{
-	"NatDexNum":	100,
-	"SpeciesName":	"Voltorb",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Voltorb",
-	"VarName":	"HisuianVoltorb",
-	"DefName":	"VOLTORB_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Voltorb
-{
-	"NatDexNum":	101,
-	"SpeciesName":	"Electrode",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Electrode",
-	"VarName":	"HisuianElectrode",
-	"DefName":	"ELECTRODE_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Electrode
-{
-	"NatDexNum":	157,
-	"SpeciesName":	"Typhlosion",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Typhlosion",
-	"VarName":	"HisuianTyphlosion",
-	"DefName":	"TYPHLOSION_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Typhlosion
-{
-	"NatDexNum":	211,
-	"SpeciesName":	"Qwilfish",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Qwilfish",
-	"VarName":	"HisuianQwilfish",
-	"DefName":	"QWILFISH_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Qwilfish
-{
-	"NatDexNum":	215,
-	"SpeciesName":	"Sneasel",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Sneasel",
-	"VarName":	"HisuianSneasel",
-	"DefName":	"SNEASEL_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Sneasel
-{
-	"NatDexNum":	503,
-	"SpeciesName":	"Samurott",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Samurott",
-	"VarName":	"HisuianSamurott",
-	"DefName":	"SAMUROTT_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Samurott
-{
-	"NatDexNum":	549,
-	"SpeciesName":	"Lilligant",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Lilligant",
-	"VarName":	"HisuianLilligant",
-	"DefName":	"LILLIGANT_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Lilligant
-{
-	"NatDexNum":	570,
-	"SpeciesName":	"Zorua",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Zorua",
-	"VarName":	"HisuianZorua",
-	"DefName":	"ZORUA_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Zorua
-{
-	"NatDexNum":	571,
-	"SpeciesName":	"Zoroark",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Zoroark",
-	"VarName":	"HisuianZoroark",
-	"DefName":	"ZOROARK_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Zoroark
-{
-	"NatDexNum":	628,
-	"SpeciesName":	"Braviary",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Braviary",
-	"VarName":	"HisuianBraviary",
-	"DefName":	"BRAVIARY_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Braviary
-{
-	"NatDexNum":	705,
-	"SpeciesName":	"Sliggoo",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Sliggoo",
-	"VarName":	"HisuianSliggoo",
-	"DefName":	"SLIGGOO_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Sliggoo
-{
-	"NatDexNum":	706,
-	"SpeciesName":	"Goodra",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Goodra",
-	"VarName":	"HisuianGoodra",
-	"DefName":	"GOODRA_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Goodra
-{
-	"NatDexNum":	713,
-	"SpeciesName":	"Avalugg",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Avalugg",
-	"VarName":	"HisuianAvalugg",
-	"DefName":	"AVALUGG_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Avalugg
-{
-	"NatDexNum":	724,
-	"SpeciesName":	"Decidueye",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	false,
-	"FormName":	"Hisuian Decidueye",
-	"VarName":	"HisuianDecidueye",
-	"DefName":	"DECIDUEYE_HISUIAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Decidueye
-{
-	"NatDexNum":	128,
-	"SpeciesName":	"Tauros",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	true,
-	"FormName":	"Paldean Tauros / Blaze Breed / Aqua Breed",
-	"VarName":	"PaldeanTauros",
-	"DefName":	"TAUROS_PALDEAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false
-},//Tauros
-{
-	"NatDexNum":	194,
-	"SpeciesName":	"Wooper",
-	"IsBaseForm":	false,
-	"CanHatchFromEgg":	true,
-	"FormName":	"Paldean Wooper",
-	"VarName":	"PaldeanWooper",
-	"DefName":	"WOOPER_PALDEAN",
-	"SerebiiFormName":	null,
-	"SerebiiFormNameAlt":	null,
-	"SerebiiURL":	null,
-	"SerebiiLevelUpTableName":	null,
-	"SerebiiTMTableName":	null,
-	"usesBaseFormLearnset":	false,
-	"ignoresNearUniversalTMs":	false,
-	"isGenderless":	false,
-},//Wooper
+},//	"Miraidon",

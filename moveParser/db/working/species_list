@@ -976,7 +976,6 @@
 #define SPECIES_FROSMOTH                                     1257
 #define SPECIES_STONJOURNER                                  1258
 #define SPECIES_EISCUE                                       SPECIES_EISCUE_ICE_FACE
-#define SPECIES_INDEEDEE                                     SPECIES_INDEEDEE_MALE
 #define SPECIES_INDEEDEE_MALE                                1261
 #define SPECIES_INDEEDEE_FEMALE                              1262
 #define SPECIES_MORPEKO                                      SPECIES_MORPEKO_FULL_BELLY
