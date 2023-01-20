@@ -1,0 +1,1763 @@
+———:
+	Level Up: None.
+Pound:
+	Level Up: None.
+Karate Chop:
+	Level Up: None.
+Double Slap:
+	Level Up: None.
+Comet Punch:
+	Level Up: None.
+Mega Punch:
+	Level Up: None.
+Pay Day:
+	Level Up: None.
+Fire Punch:
+	Tutors: Clefairy, Clefable, Abra, Kadabra, Alakazam, Machop, Machoke, Machamp, Geodude, Graveler, Golem, Gastly, Haunter, Gengar, Lickitung, Rhydon, Chansey, Mr. Mime, Electabuzz, Magmar, Snorlax, Sudowoodo, Aipom, Teddiursa, Ursaring, Elekid, Magby, Blissey, Ralts, Kirlia, Gardevoir, Nosepass, Dusclops, Chimchar, Monferno, Infernape, Cranidos, Rampardos, Ambipom, Buneary, Lopunny, Munchlax, Lickilicky, Rhyperior, Electivire, Magmortar, Gallade, Probopass, Dusknoir, Uxie, Mesprit, Azelf, Regigigas, Ursaluna, Typhlosion-1, Goodra-1
+	Level Up: Magmar @ 25, Magby @ 25, Magmortar @ 25
+Ice Punch:
+	Tutors: Clefairy, Clefable, Psyduck, Golduck, Abra, Kadabra, Alakazam, Machop, Machoke, Machamp, Gastly, Haunter, Gengar, Lickitung, Rhydon, Chansey, Mr. Mime, Electabuzz, Snorlax, Sudowoodo, Aipom, Sneasel, Teddiursa, Ursaring, Elekid, Blissey, Ralts, Kirlia, Gardevoir, Nosepass, Dusclops, Buizel, Floatzel, Ambipom, Buneary, Lopunny, Munchlax, Riolu, Lucario, Croagunk, Toxicroak, Snover, Abomasnow, Weavile, Lickilicky, Rhyperior, Electivire, Gallade, Probopass, Dusknoir, Froslass, Uxie, Mesprit, Azelf, Regigigas, Ursaluna
+	Level Up: None.
+Thunder Punch:
+	Tutors: Pikachu, Raichu, Clefairy, Clefable, Abra, Kadabra, Alakazam, Machop, Machoke, Machamp, Geodude, Graveler, Golem, Gastly, Haunter, Gengar, Lickitung, Rhydon, Chansey, Mr. Mime, Electabuzz, Magmar, Snorlax, Pichu, Sudowoodo, Aipom, Teddiursa, Ursaring, Elekid, Magby, Blissey, Ralts, Kirlia, Gardevoir, Nosepass, Dusclops, Chimchar, Monferno, Infernape, Cranidos, Rampardos, Pachirisu, Ambipom, Buneary, Lopunny, Munchlax, Riolu, Lucario, Croagunk, Toxicroak, Lickilicky, Rhyperior, Electivire, Magmortar, Gallade, Probopass, Dusknoir, Uxie, Mesprit, Azelf, Regigigas, Thundurus, Ursaluna, Typhlosion-1, Thundurus-1, Goodra-1
+	Level Up: Electabuzz @ 25, Elekid @ 25, Electivire @ 25
+Scratch:
+	Level Up: None.
+Vise Grip:
+	Level Up: None.
+Guillotine:
+	Level Up: None.
+Razor Wind:
+	Level Up: None.
+Swords Dance:
+	Level Up: Scyther @ 25, Scizor @ 25, Heracross @ 29, Sneasel @ 34, Sneasel-1 @ 34, Bidoof @ 31, Bibarel @ 31, Kricketune @ 37, Skorupi @ 25, Drapion @ 25, Weavile @ 34, Gliscor @ 30, Gallade @ 30, Oshawott @ 11, Dewott @ 11, Samurott-1 @ 11, Kleavor @ 25, Kleavor-1 @ 25, Sneasler @ 34
+Cut:
+	Level Up: None.
+Gust:
+	Level Up: Zubat @ 1, Golbat @ 1, Crobat @ 1, Yanma @ 6, Murkrow @ 1, Starly @ 1, Staravia @ 1, Staraptor @ 1, Wormadam @ 6, Wormadam-1 @ 6, Wormadam-2 @ 6, Mothim @ 6, Mothim-1 @ 6, Mothim-2 @ 6, Combee @ 1, Vespiquen @ 1, Honchkrow @ 1, Chatot @ 1, Finneon @ 6, Lumineon @ 6, Yanmega @ 6, Rowlet @ 1, Dartrix @ 1, Decidueye-1 @ 1
+Wing Attack:
+	Level Up: None.
+Whirlwind:
+	Level Up: None.
+Fly:
+	Level Up: None.
+Bind:
+	Level Up: None.
+Slam:
+	Level Up: None.
+Vine Whip:
+	Level Up: None.
+Stomp:
+	Level Up: None.
+Double Kick:
+	Level Up: None.
+Mega Kick:
+	Level Up: None.
+Jump Kick:
+	Level Up: None.
+Rolling Kick:
+	Level Up: None.
+Sand Attack:
+	Level Up: None.
+Headbutt:
+	Level Up: None.
+Horn Attack:
+	Level Up: None.
+Fury Attack:
+	Level Up: None.
+Horn Drill:
+	Level Up: None.
+Tackle:
+	Level Up: Clefairy @ 1, Clefable @ 1, Growlithe-1 @ 1, Arcanine-1 @ 1, Arcanine-2 @ 1, Machop @ 1, Machoke @ 1, Machamp @ 1, Geodude @ 5, Graveler @ 5, Golem @ 5, Ponyta @ 1, Rapidash @ 1, Magnemite @ 6, Magneton @ 6, Onix @ 6, Voltorb-1 @ 5, Electrode-1 @ 5, Electrode-2 @ 5, Lickitung @ 1, Rhyhorn @ 1, Rhydon @ 1, Chansey @ 1, Magmar @ 6, Eevee @ 1, Vaporeon @ 1, Jolteon @ 1, Flareon @ 1, Porygon @ 1, Snorlax @ 5, Cleffa @ 1, Togepi @ 1, Togetic @ 1, Sudowoodo @ 5, Espeon @ 1, Umbreon @ 1, Steelix @ 6, Heracross @ 1, Teddiursa @ 1, Ursaring @ 1, Swinub @ 1, Piloswine @ 1, Mantine @ 1, Porygon2 @ 1, Stantler @ 1, Magby @ 6, Blissey @ 1, Wurmple @ 6, Silcoon @ 6, Beautifly @ 6, Cascoon @ 6, Dustox @ 6, Nosepass @ 1, Chimecho @ 1, Turtwig @ 1, Grotle @ 1, Torterra @ 1, Chimchar @ 1, Monferno @ 1, Infernape @ 1, Piplup @ 1, Prinplup @ 1, Empoleon @ 1, Bidoof @ 5, Bibarel @ 5, Kricketot @ 5, Kricketune @ 5, Cranidos @ 1, Rampardos @ 1, Shieldon @ 1, Bastiodon @ 1, Cherubi @ 5, Cherrim @ 5, Cherrim-1 @ 5, Shellos @ 5, Shellos-1 @ 5, Gastrodon @ 5, Gastrodon-1 @ 5, Glameow @ 1, Purugly @ 1, Chingling @ 1, Stunky @ 1, Skuntank @ 1, Bronzor @ 1, Bronzong @ 1, Bonsly @ 5, Happiny @ 1, Gible @ 1, Gabite @ 1, Garchomp @ 1, Munchlax @ 5, Hippopotas @ 1, Hippowdon @ 1, Mantyke @ 1, Magnezone @ 6, Lickilicky @ 1, Rhyperior @ 1, Magmortar @ 6, Togekiss @ 1, Leafeon @ 1, Glaceon @ 1, Mamoswine @ 1, Porygon-Z @ 1, Probopass @ 1, Regigigas @ 1, Cresselia @ 1, Oshawott @ 1, Dewott @ 1, Samurott-1 @ 1, Basculin-2 @ 1, Tornadus @ 1, Tornadus-1 @ 1, Thundurus @ 1, Thundurus-1 @ 1, Landorus @ 1, Landorus-1 @ 1, Sylveon @ 1, Bergmite @ 1, Avalugg-1 @ 1, Avalugg-2 @ 1, Wyrdeer @ 1, Ursaluna @ 1, Basculegion @ 1, Basculegion-1 @ 1, Enamorus @ 1, Enamorus-1 @ 1
+Body Slam:
+	Level Up: None.
+Wrap:
+	Level Up: None.
+Take Down:
+	Level Up: None.
+Thrash:
+	Level Up: None.
+Double-Edge:
+	Level Up: Clefairy @ 47, Clefable @ 47, Growlithe-1 @ 37, Arcanine-1 @ 37, Arcanine-2 @ 37, Machop @ 34, Machoke @ 34, Machamp @ 34, Geodude @ 37, Graveler @ 37, Golem @ 37, Ponyta @ 37, Rapidash @ 37, Lickitung @ 25, Rhyhorn @ 43, Rhydon @ 43, Chansey @ 43, Eevee @ 43, Vaporeon @ 43, Jolteon @ 43, Flareon @ 43, Snorlax @ 46, Cleffa @ 47, Sudowoodo @ 37, Aipom @ 43, Espeon @ 43, Umbreon @ 43, Qwilfish-1 @ 47, Heracross @ 37, Teddiursa @ 43, Ursaring @ 43, Swinub @ 52, Piloswine @ 52, Mantine @ 47, Stantler @ 47, Blissey @ 43, Chimecho @ 43, Turtwig @ 43, Grotle @ 43, Torterra @ 43, Chimchar @ 43, Monferno @ 43, Infernape @ 43, Piplup @ 43, Prinplup @ 43, Empoleon @ 43, Starly @ 29, Staravia @ 29, Staraptor @ 29, Bidoof @ 40, Bibarel @ 40, Cranidos @ 37, Rampardos @ 37, Shieldon @ 47, Bastiodon @ 47, Cherubi @ 37, Cherrim @ 37, Cherrim-1 @ 37, Ambipom @ 43, Buneary @ 40, Lopunny @ 40, Glameow @ 40, Purugly @ 40, Chingling @ 43, Stunky @ 43, Skuntank @ 43, Bonsly @ 37, Happiny @ 43, Gible @ 37, Gabite @ 37, Garchomp @ 37, Munchlax @ 46, Hippopotas @ 43, Hippowdon @ 43, Mantyke @ 47, Lickilicky @ 25, Rhyperior @ 43, Leafeon @ 43, Glaceon @ 43, Mamoswine @ 52, Basculin-2 @ 43, Rufflet @ 34, Braviary-1 @ 34, Sylveon @ 43, Bergmite @ 47, Avalugg-1 @ 47, Avalugg-2 @ 47, Wyrdeer @ 47, Ursaluna @ 43, Basculegion @ 43, Basculegion-1 @ 43, Overqwil @ 47
+Tail Whip:
+	Level Up: None.
+Poison Sting:
+	Level Up: Tentacool @ 1, Tentacruel @ 1, Gligar @ 1, Qwilfish-1 @ 1, Wurmple @ 1, Silcoon @ 1, Beautifly @ 1, Cascoon @ 1, Dustox @ 1, Roselia @ 1, Budew @ 1, Roserade @ 1, Skorupi @ 1, Drapion @ 1, Croagunk @ 1, Toxicroak @ 1, Gliscor @ 1, Overqwil @ 1
+Twineedle:
+	Level Up: None.
+Pin Missile:
+	Level Up: Qwilfish-1 @ 9, Heracross @ 9, Vespiquen @ 11, Gliscor @ 20, Overqwil @ 9
+Leer:
+	Level Up: None.
+Bite:
+	Level Up: Zubat @ 11, Golbat @ 11, Growlithe-1 @ 9, Arcanine-1 @ 9, Arcanine-2 @ 9, Gyarados @ 9, Snorlax @ 21, Crobat @ 11, Snorunt @ 11, Glalie @ 11, Turtwig @ 11, Grotle @ 11, Torterra @ 11, Bidoof @ 10, Bibarel @ 10, Shinx @ 9, Luxio @ 9, Luxray @ 9, Cranidos @ 9, Rampardos @ 9, Pachirisu @ 9, Munchlax @ 21, Riolu @ 9, Lucario @ 9, Hippopotas @ 11, Hippowdon @ 11, Skorupi @ 6, Drapion @ 6, Carnivine @ 11, Froslass @ 11, Basculin-2 @ 11, Tornadus @ 7, Tornadus-1 @ 7, Thundurus @ 7, Thundurus-1 @ 7, Landorus @ 7, Landorus-1 @ 7, Bergmite @ 15, Avalugg-1 @ 15, Avalugg-2 @ 15, Basculegion @ 11, Basculegion-1 @ 11, Enamorus @ 7, Enamorus-1 @ 7
+Growl:
+	Level Up: None.
+Roar:
+	Level Up: None.
+Sing:
+	Level Up: None.
+Supersonic:
+	Level Up: None.
+Sonic Boom:
+	Level Up: None.
+Disable:
+	Level Up: None.
+Acid:
+	Level Up: None.
+Ember:
+	Level Up: Vulpix @ 1, Ninetales @ 1, Growlithe-1 @ 5, Arcanine-1 @ 5, Arcanine-2 @ 5, Ponyta @ 5, Rapidash @ 5, Magmar @ 1, Flareon @ 0, Cyndaquil @ 6, Quilava @ 6, Typhlosion-1 @ 6, Magby @ 1, Chimchar @ 6, Monferno @ 6, Infernape @ 6, Magmortar @ 1, Heatran @ 1
+Flamethrower:
+	Tutors: Clefairy, Clefable, Vulpix, Ninetales, Machop, Machoke, Machamp, Geodude, Graveler, Golem, Ponyta, Rapidash, Lickitung, Rhyhorn, Rhydon, Chansey, Magmar, Gyarados, Flareon, Snorlax, Cyndaquil, Quilava, Cleffa, Togepi, Togetic, Octillery, Magby, Blissey, Chimchar, Monferno, Infernape, Cranidos, Rampardos, Shieldon, Bastiodon, Stunky, Skuntank, Happiny, Gible, Gabite, Garchomp, Munchlax, Lickilicky, Rhyperior, Electivire, Magmortar, Togekiss, Azelf, Dialga, Palkia, Heatran, Arceus, Growlithe-1, Arcanine-1, Arcanine-2, Typhlosion-1, Dialga-1, Palkia-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Zoroark-1, Goodra-1
+	Level Up: Vulpix @ 37, Ninetales @ 37, Magmar @ 34, Flareon @ 25, Cyndaquil @ 34, Quilava @ 34, Typhlosion-1 @ 34, Magby @ 34, Chimchar @ 34, Monferno @ 34, Infernape @ 34, Skuntank @ 34, Magmortar @ 34
+Mist:
+	Level Up: None.
+Water Gun:
+	Level Up: None.
+Hydro Pump:
+	Level Up: Psyduck @ 43, Golduck @ 43, Tentacool @ 43, Tentacruel @ 43, Gyarados @ 47, Remoraid @ 34, Octillery @ 34, Mantine @ 37, Empoleon @ 52, Buizel @ 43, Floatzel @ 43, Shellos @ 47, Shellos-1 @ 47, Gastrodon @ 47, Gastrodon-1 @ 47, Finneon @ 43, Lumineon @ 43, Mantyke @ 37, Palkia @ 55, Palkia-1 @ 55, Phione @ 57, Manaphy @ 57, Oshawott @ 43, Dewott @ 43, Samurott-1 @ 43, Goomy @ 43, Sliggoo-1 @ 43, Goodra-1 @ 43
+Surf:
+	Level Up: None.
+Ice Beam:
+	Tutors: Clefairy, Clefable, Psyduck, Golduck, Tentacool, Tentacruel, Lickitung, Rhyhorn, Rhydon, Chansey, Gyarados, Vaporeon, Porygon, Snorlax, Sneasel, Swinub, Piloswine, Remoraid, Octillery, Mantine, Porygon2, Blissey, Ralts, Kirlia, Gardevoir, Barboach, Whiscash, Duskull, Dusclops, Snorunt, Glalie, Spheal, Sealeo, Walrein, Piplup, Prinplup, Empoleon, Bidoof, Bibarel, Cranidos, Rampardos, Shieldon, Bastiodon, Buizel, Floatzel, Shellos, Gastrodon, Buneary, Lopunny, Munchlax, Finneon, Lumineon, Mantyke, Snover, Abomasnow, Weavile, Lickilicky, Rhyperior, Glaceon, Mamoswine, Porygon-Z, Gallade, Dusknoir, Froslass, Mesprit, Dialga, Palkia, Cresselia, Phione, Manaphy, Darkrai, Arceus, Oshawott, Dewott, Bergmite, Basculegion, Overqwil, Vulpix-1, Ninetales-1, Qwilfish-1, Shellos-1, Gastrodon-1, Dialga-1, Palkia-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Basculin-2, Sliggoo-1, Goodra-1, Avalugg-1, Avalugg-2, Basculegion-1
+	Level Up: Vulpix-1 @ 37, Ninetales-1 @ 37, Remoraid @ 25, Octillery @ 25, Spheal @ 34, Sealeo @ 34, Walrein @ 34, Glaceon @ 25
+Blizzard:
+	Level Up: Vulpix-1 @ 47, Ninetales-1 @ 47, Sneasel @ 43, Swinub @ 43, Piloswine @ 43, Snorunt @ 43, Glalie @ 43, Spheal @ 43, Sealeo @ 43, Walrein @ 43, Snover @ 34, Abomasnow @ 34, Weavile @ 43, Mamoswine @ 43, Froslass @ 43, Bergmite @ 37, Avalugg-1 @ 37, Avalugg-2 @ 37
+Psybeam:
+	Level Up: None.
+Bubble Beam:
+	Level Up: None.
+Aurora Beam:
+	Level Up: None.
+Hyper Beam:
+	Tutors: Raichu, Clefable, Ninetales, Golbat, Parasect, Golduck, Alakazam, Machamp, Tentacruel, Golem, Rapidash, Magneton, Gengar, Lickitung, Rhydon, Chansey, Tangela, Mr. Mime, Scyther, Electabuzz, Magmar, Gyarados, Vaporeon, Jolteon, Flareon, Porygon, Snorlax, Crobat, Togetic, Espeon, Umbreon, Steelix, Scizor, Heracross, Ursaring, Piloswine, Remoraid, Octillery, Mantine, Porygon2, Blissey, Beautifly, Dustox, Gardevoir, Whiscash, Dusclops, Glalie, Walrein, Torterra, Infernape, Empoleon, Staraptor, Bibarel, Kricketune, Luxray, Roserade, Rampardos, Bastiodon, Wormadam, Mothim, Vespiquen, Floatzel, Cherrim, Gastrodon, Ambipom, Drifblim, Lopunny, Mismagius, Honchkrow, Purugly, Skuntank, Bronzong, Spiritomb, Garchomp, Lucario, Hippowdon, Drapion, Toxicroak, Carnivine, Lumineon, Abomasnow, Weavile, Magnezone, Lickilicky, Rhyperior, Tangrowth, Electivire, Magmortar, Togekiss, Yanmega, Leafeon, Glaceon, Gliscor, Mamoswine, Porygon-Z, Gallade, Probopass, Dusknoir, Froslass, Uxie, Mesprit, Azelf, Dialga, Palkia, Heatran, Regigigas, Giratina, Cresselia, Manaphy, Darkrai, Shaymin, Arceus, Tornadus, Thundurus, Landorus, Sylveon, Wyrdeer, Kleavor, Ursaluna, Basculegion, Sneasler, Overqwil, Enamorus, Ninetales-1, Arcanine-1, Arcanine-2, Electrode-1, Electrode-2, Typhlosion-1, Wormadam-1, Wormadam-2, Mothim-1, Mothim-2, Cherrim-1, Gastrodon-1, Dialga-1, Palkia-1, Giratina-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Lilligant-1, Lilligant-2, Zoroark-1, Braviary-1, Tornadus-1, Thundurus-1, Landorus-1, Goodra-1, Avalugg-1, Avalugg-2, Decidueye-1, Kleavor-1, Basculegion-1, Enamorus-1
+	Level Up: Gyarados @ 57, Porygon @ 47, Remoraid @ 43, Octillery @ 43, Porygon2 @ 47, Porygon-Z @ 47, Arceus @ 57, Arceus-1 @ 57, Arceus-2 @ 57, Arceus-3 @ 57, Arceus-4 @ 57, Arceus-5 @ 57, Arceus-6 @ 57, Arceus-7 @ 57, Arceus-8 @ 57, Arceus-9 @ 57, Arceus-10 @ 57, Arceus-11 @ 57, Arceus-12 @ 57, Arceus-13 @ 57, Arceus-14 @ 57, Arceus-15 @ 57, Arceus-16 @ 57, Arceus-17 @ 57, Arceus-18 @ 57
+Peck:
+	Level Up: None.
+Drill Peck:
+	Level Up: None.
+Submission:
+	Level Up: None.
+Low Kick:
+	Level Up: None.
+Counter:
+	Level Up: None.
+Seismic Toss:
+	Level Up: None.
+Strength:
+	Level Up: None.
+Absorb:
+	Level Up: Paras @ 1, Parasect @ 1, Tangela @ 1, Roselia @ 6, Duskull @ 1, Dusclops @ 1, Kricketot @ 1, Kricketune @ 1, Budew @ 6, Roserade @ 6, Cherubi @ 1, Cherrim @ 1, Cherrim-1 @ 1, Carnivine @ 1, Tangrowth @ 1, Dusknoir @ 1, Petilil @ 1, Lilligant-1 @ 1, Lilligant-2 @ 1
+Mega Drain:
+	Level Up: None.
+Leech Seed:
+	Level Up: None.
+Growth:
+	Level Up: None.
+Razor Leaf:
+	Level Up: None.
+Solar Beam:
+	Level Up: None.
+Poison Powder:
+	Level Up: Paras @ 9, Parasect @ 9, Tangela @ 11, Dustox @ 11, Roselia @ 11, Budew @ 11, Roserade @ 11, Tangrowth @ 11, Petilil @ 15, Lilligant-1 @ 15, Lilligant-2 @ 15
+Stun Spore:
+	Level Up: Paras @ 5, Parasect @ 5, Tangela @ 6, Beautifly @ 11, Roselia @ 18, Budew @ 18, Roserade @ 18, Cherubi @ 9, Cherrim @ 9, Cherrim-1 @ 9, Carnivine @ 18, Tangrowth @ 6, Petilil @ 9, Lilligant-1 @ 9, Lilligant-2 @ 9
+Sleep Powder:
+	Level Up: Tangela @ 43, Turtwig @ 25, Grotle @ 25, Torterra @ 25, Cherubi @ 29, Cherrim @ 29, Cherrim-1 @ 29, Carnivine @ 34, Tangrowth @ 43, Shaymin @ 12, Shaymin-1 @ 12, Petilil @ 29, Lilligant-1 @ 29, Lilligant-2 @ 29
+Petal Dance:
+	Level Up: Roselia @ 52, Budew @ 52, Roserade @ 52, Cherubi @ 47, Cherrim @ 47, Cherrim-1 @ 47, Lilligant-1 @ 53, Lilligant-2 @ 53
+String Shot:
+	Level Up: None.
+Dragon Rage:
+	Level Up: None.
+Fire Spin:
+	Level Up: None.
+Thunder Shock:
+	Level Up: Pikachu @ 1, Raichu @ 1, Magnemite @ 1, Magneton @ 1, Voltorb-1 @ 1, Electrode-1 @ 1, Electrode-2 @ 1, Electabuzz @ 1, Jolteon @ 0, Porygon @ 5, Pichu @ 1, Porygon2 @ 5, Elekid @ 1, Shinx @ 5, Luxio @ 5, Luxray @ 5, Pachirisu @ 5, Magnezone @ 1, Electivire @ 1, Porygon-Z @ 5, Rotom @ 1, Rotom-1 @ 1, Rotom-2 @ 1, Rotom-3 @ 1, Rotom-4 @ 1, Rotom-5 @ 1
+Thunderbolt:
+	Tutors: Pikachu, Raichu, Clefairy, Clefable, Magnemite, Magneton, Gastly, Haunter, Gengar, Chansey, Mr. Mime, Electabuzz, Gyarados, Jolteon, Porygon, Snorlax, Pichu, Aipom, Misdreavus, Porygon2, Stantler, Elekid, Blissey, Ralts, Kirlia, Gardevoir, Nosepass, Bidoof, Bibarel, Shinx, Luxio, Luxray, Cranidos, Rampardos, Shieldon, Bastiodon, Pachirisu, Ambipom, Drifloon, Drifblim, Buneary, Lopunny, Mismagius, Glameow, Purugly, Mime Jr., Munchlax, Magnezone, Lickilicky, Rhyperior, Electivire, Magmortar, Porygon-Z, Gallade, Probopass, Froslass, Rotom, Uxie, Mesprit, Azelf, Dialga, Palkia, Regigigas, Giratina, Darkrai, Arceus, Thundurus, Goomy, Wyrdeer, Voltorb-1, Electrode-1, Electrode-2, Rotom-1, Rotom-2, Rotom-3, Rotom-4, Rotom-5, Dialga-1, Palkia-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Thundurus-1, Sliggoo-1, Goodra-1
+	Level Up: Pikachu @ 29, Raichu @ 29, Magnemite @ 34, Magneton @ 34, Voltorb-1 @ 29, Electrode-1 @ 29, Electrode-2 @ 29, Electabuzz @ 34, Jolteon @ 25, Porygon @ 29, Pichu @ 29, Porygon2 @ 29, Elekid @ 34, Magnezone @ 34, Electivire @ 34, Porygon-Z @ 29, Rotom @ 34, Rotom-1 @ 34, Rotom-2 @ 34, Rotom-3 @ 34, Rotom-4 @ 34, Rotom-5 @ 34
+Thunder Wave:
+	Level Up: Pikachu @ 9, Raichu @ 9, Magnemite @ 11, Magneton @ 11, Voltorb-1 @ 9, Electrode-1 @ 9, Electrode-2 @ 9, Electabuzz @ 18, Porygon @ 9, Pichu @ 9, Porygon2 @ 9, Elekid @ 18, Nosepass @ 6, Shinx @ 21, Luxio @ 21, Luxray @ 21, Pachirisu @ 37, Magnezone @ 11, Electivire @ 18, Porygon-Z @ 9, Probopass @ 6, Rotom @ 18, Rotom-1 @ 18, Rotom-2 @ 18, Rotom-3 @ 18, Rotom-4 @ 18, Rotom-5 @ 18
+Thunder:
+	Level Up: Pikachu @ 47, Raichu @ 47, Magnemite @ 43, Magneton @ 43, Voltorb-1 @ 37, Electrode-1 @ 37, Electrode-2 @ 37, Electabuzz @ 43, Pichu @ 47, Elekid @ 43, Shinx @ 47, Luxio @ 47, Luxray @ 47, Pachirisu @ 47, Magnezone @ 43, Electivire @ 43, Rotom @ 43, Rotom-1 @ 43, Rotom-2 @ 43, Rotom-3 @ 43, Rotom-4 @ 43, Rotom-5 @ 43, Thundurus @ 47, Thundurus-1 @ 47
+Rock Throw:
+	Level Up: None.
+Earthquake:
+	Level Up: None.
+Fissure:
+	Level Up: None.
+Dig:
+	Level Up: None.
+Toxic:
+	Level Up: None.
+Confusion:
+	Level Up: Psyduck @ 6, Golduck @ 6, Kadabra @ 0, Alakazam @ 6, Mr. Mime @ 1, Espeon @ 0, Misdreavus @ 6, Stantler @ 5, Dustox @ 0, Ralts @ 1, Kirlia @ 1, Gardevoir @ 1, Chimecho @ 6, Wormadam @ 11, Wormadam-1 @ 11, Wormadam-2 @ 11, Mothim @ 11, Mothim-1 @ 11, Mothim-2 @ 11, Drifloon @ 1, Drifblim @ 1, Mismagius @ 6, Chingling @ 6, Bronzor @ 6, Bronzong @ 6, Mime Jr. @ 1, Gallade @ 1, Uxie @ 1, Mesprit @ 1, Azelf @ 1, Cresselia @ 6, Phione @ 6, Manaphy @ 6, Arceus @ 6, Arceus-1 @ 6, Arceus-2 @ 6, Arceus-3 @ 6, Arceus-4 @ 6, Arceus-5 @ 6, Arceus-6 @ 6, Arceus-7 @ 6, Arceus-8 @ 6, Arceus-9 @ 6, Arceus-10 @ 6, Arceus-11 @ 6, Arceus-12 @ 6, Arceus-13 @ 6, Arceus-14 @ 6, Arceus-15 @ 6, Arceus-16 @ 6, Arceus-17 @ 6, Arceus-18 @ 6, Wyrdeer @ 5
+Psychic:
+	Tutors: Clefairy, Clefable, Psyduck, Golduck, Abra, Kadabra, Alakazam, Gastly, Haunter, Gengar, Chansey, Mr. Mime, Electabuzz, Magmar, Porygon, Snorlax, Cleffa, Togepi, Togetic, Yanma, Espeon, Umbreon, Murkrow, Misdreavus, Remoraid, Octillery, Porygon2, Stantler, Elekid, Magby, Blissey, Beautifly, Dustox, Ralts, Kirlia, Gardevoir, Duskull, Dusclops, Chimecho, Wormadam, Mothim, Drifloon, Drifblim, Mismagius, Honchkrow, Chingling, Bronzor, Bronzong, Mime Jr., Happiny, Spiritomb, Munchlax, Lucario, Electivire, Magmortar, Togekiss, Yanmega, Porygon-Z, Gallade, Dusknoir, Froslass, Uxie, Mesprit, Azelf, Giratina, Cresselia, Manaphy, Darkrai, Shaymin, Arceus, Tornadus, Thundurus, Landorus, Wyrdeer, Basculegion, Enamorus, Wormadam-1, Wormadam-2, Mothim-1, Mothim-2, Giratina-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Braviary-1, Tornadus-1, Thundurus-1, Landorus-1, Basculegion-1, Enamorus-1
+	Level Up: Clefairy @ 29, Clefable @ 29, Kadabra @ 43, Alakazam @ 43, Mr. Mime @ 34, Cleffa @ 29, Espeon @ 25, Ralts @ 34, Kirlia @ 34, Gardevoir @ 34, Duskull @ 43, Dusclops @ 43, Wormadam @ 34, Wormadam-1 @ 34, Wormadam-2 @ 34, Mothim @ 34, Mothim-1 @ 34, Mothim-2 @ 34, Mime Jr. @ 34, Gallade @ 34, Dusknoir @ 43, Cresselia @ 36, Darkrai @ 46
+Hypnosis:
+	Level Up: Zubat @ 6, Golbat @ 6, Psyduck @ 18, Golduck @ 18, Kadabra @ 6, Alakazam @ 6, Ponyta @ 21, Rapidash @ 21, Gastly @ 25, Haunter @ 25, Gengar @ 25, Mr. Mime @ 6, Crobat @ 6, Yanma @ 18, Misdreavus @ 11, Stantler @ 9, Ralts @ 18, Kirlia @ 18, Gardevoir @ 18, Chimecho @ 18, Drifloon @ 5, Drifblim @ 5, Mismagius @ 11, Glameow @ 5, Purugly @ 5, Chingling @ 18, Bronzor @ 25, Bronzong @ 25, Mime Jr. @ 6, Spiritomb @ 6, Yanmega @ 18, Gallade @ 18, Uxie @ 57, Darkrai @ 6, Wyrdeer @ 9
+Meditate:
+	Level Up: None.
+Agility:
+	Level Up: None.
+Quick Attack:
+	Level Up: Pikachu @ 5, Raichu @ 5, Vulpix @ 5, Vulpix-1 @ 5, Ninetales @ 5, Ninetales-1 @ 5, Scyther @ 1, Electabuzz @ 6, Eevee @ 6, Vaporeon @ 6, Jolteon @ 6, Flareon @ 6, Cyndaquil @ 1, Quilava @ 1, Typhlosion-1 @ 1, Pichu @ 5, Aipom @ 1, Yanma @ 1, Espeon @ 6, Umbreon @ 6, Gligar @ 6, Scizor @ 1, Sneasel @ 1, Sneasel-1 @ 1, Elekid @ 6, Starly @ 5, Staravia @ 5, Staraptor @ 5, Shinx @ 1, Luxio @ 1, Luxray @ 1, Pachirisu @ 1, Buizel @ 1, Floatzel @ 1, Ambipom @ 1, Buneary @ 1, Lopunny @ 1, Weavile @ 1, Electivire @ 6, Yanmega @ 1, Leafeon @ 6, Glaceon @ 6, Gliscor @ 6, Shaymin @ 6, Shaymin-1 @ 6, Arceus @ 1, Arceus-1 @ 1, Arceus-2 @ 1, Arceus-3 @ 1, Arceus-4 @ 1, Arceus-5 @ 1, Arceus-6 @ 1, Arceus-7 @ 1, Arceus-8 @ 1, Arceus-9 @ 1, Arceus-10 @ 1, Arceus-11 @ 1, Arceus-12 @ 1, Arceus-13 @ 1, Arceus-14 @ 1, Arceus-15 @ 1, Arceus-16 @ 1, Arceus-17 @ 1, Arceus-18 @ 1, Rufflet @ 1, Braviary-1 @ 1, Sylveon @ 6, Kleavor @ 1, Kleavor-1 @ 1, Sneasler @ 1
+Rage:
+	Level Up: None.
+Teleport:
+	Level Up: Abra @ 1, Kadabra @ 1, Alakazam @ 1, Ralts @ 6, Kirlia @ 6, Gardevoir @ 6, Gallade @ 6
+Night Shade:
+	Level Up: None.
+Mimic:
+	Level Up: Mr. Mime @ 25, Eevee @ 25, Vaporeon @ 25, Jolteon @ 25, Flareon @ 25, Sudowoodo @ 29, Espeon @ 25, Umbreon @ 25, Bonsly @ 29, Mime Jr. @ 25, Chatot @ 30, Leafeon @ 25, Glaceon @ 25, Sylveon @ 25
+Screech:
+	Level Up: None.
+Double Team:
+	Level Up: None.
+Recover:
+	Level Up: Kadabra @ 34, Alakazam @ 34, Porygon @ 37, Porygon2 @ 37, Gardevoir @ 52, Chimecho @ 34, Vespiquen @ 52, Shellos @ 37, Shellos-1 @ 37, Gastrodon @ 37, Gastrodon-1 @ 37, Chingling @ 34, Porygon-Z @ 37, Mesprit @ 57, Cresselia @ 27, Shaymin @ 27, Shaymin-1 @ 27, Arceus @ 27, Arceus-1 @ 27, Arceus-2 @ 27, Arceus-3 @ 27, Arceus-4 @ 27, Arceus-5 @ 27, Arceus-6 @ 27, Arceus-7 @ 27, Arceus-8 @ 27, Arceus-9 @ 27, Arceus-10 @ 27, Arceus-11 @ 27, Arceus-12 @ 27, Arceus-13 @ 27, Arceus-14 @ 27, Arceus-15 @ 27, Arceus-16 @ 27, Arceus-17 @ 27, Arceus-18 @ 27, Petilil @ 37, Lilligant-1 @ 37, Lilligant-2 @ 37
+Harden:
+	Level Up: None.
+Minimize:
+	Level Up: None.
+Smokescreen:
+	Level Up: None.
+Confuse Ray:
+	Level Up: None.
+Withdraw:
+	Level Up: None.
+Defense Curl:
+	Level Up: None.
+Barrier:
+	Level Up: None.
+Light Screen:
+	Level Up: None.
+Haze:
+	Level Up: None.
+Reflect:
+	Level Up: None.
+Focus Energy:
+	Tutors: Machop, Machoke, Machamp, Scyther, Magmar, Gyarados, Eevee, Vaporeon, Jolteon, Flareon, Espeon, Umbreon, Scizor, Teddiursa, Ursaring, Remoraid, Octillery, Magby, Chimchar, Monferno, Infernape, Staraptor, Kricketune, Cranidos, Rampardos, Shieldon, Bastiodon, Drifloon, Drifblim, Stunky, Skuntank, Riolu, Lucario, Magmortar, Leafeon, Glaceon, Gallade, Oshawott, Dewott, Sylveon, Kleavor, Ursaluna, Sneasler, Sneasel-1, Samurott-1, Lilligant-1, Lilligant-2, Decidueye-1, Kleavor-1
+	Level Up: Gyarados @ 15
+Bide:
+	Level Up: None.
+Metronome:
+	Level Up: None.
+Mirror Move:
+	Level Up: None.
+Self-Destruct:
+	Level Up: Geodude @ 47, Graveler @ 47, Golem @ 47, Voltorb-1 @ 47, Electrode-1 @ 47, Electrode-2 @ 47, Qwilfish-1 @ 57, Drifloon @ 47, Drifblim @ 47, Azelf @ 57, Overqwil @ 57
+Egg Bomb:
+	Level Up: None.
+Lick:
+	Level Up: None.
+Smog:
+	Level Up: None.
+Sludge:
+	Level Up: None.
+Bone Club:
+	Level Up: None.
+Fire Blast:
+	Level Up: Vulpix @ 47, Ninetales @ 47, Ponyta @ 29, Rapidash @ 29, Magmar @ 43, Magby @ 43, Magmortar @ 43
+Waterfall:
+	Level Up: None.
+Clamp:
+	Level Up: None.
+Swift:
+	Tutors: Pikachu, Raichu, Clefairy, Clefable, Vulpix, Ninetales, Zubat, Golbat, Psyduck, Golduck, Abra, Kadabra, Alakazam, Ponyta, Rapidash, Magnemite, Magneton, Scyther, Electabuzz, Eevee, Vaporeon, Jolteon, Flareon, Porygon, Cyndaquil, Quilava, Crobat, Pichu, Cleffa, Togepi, Togetic, Aipom, Yanma, Espeon, Umbreon, Murkrow, Misdreavus, Gligar, Scizor, Sneasel, Teddiursa, Ursaring, Remoraid, Octillery, Mantine, Porygon2, Stantler, Elekid, Beautifly, Dustox, Ralts, Kirlia, Gardevoir, Roselia, Chimecho, Chimchar, Monferno, Infernape, Starly, Staravia, Staraptor, Bidoof, Bibarel, Shinx, Luxio, Luxray, Budew, Roserade, Mothim, Combee, Vespiquen, Pachirisu, Buizel, Floatzel, Ambipom, Drifloon, Drifblim, Buneary, Lopunny, Mismagius, Honchkrow, Glameow, Purugly, Chingling, Stunky, Skuntank, Chatot, Gible, Gabite, Garchomp, Riolu, Lucario, Finneon, Lumineon, Mantyke, Weavile, Magnezone, Electivire, Togekiss, Yanmega, Leafeon, Glaceon, Gliscor, Porygon-Z, Gallade, Rotom, Uxie, Mesprit, Azelf, Dialga, Palkia, Giratina, Cresselia, Phione, Manaphy, Darkrai, Shaymin, Arceus, Rufflet, Sylveon, Rowlet, Dartrix, Wyrdeer, Kleavor, Ursaluna, Basculegion, Sneasler, Overqwil, Vulpix-1, Ninetales-1, Growlithe-1, Arcanine-1, Arcanine-2, Voltorb-1, Electrode-1, Electrode-2, Typhlosion-1, Qwilfish-1, Sneasel-1, Mothim-1, Mothim-2, Rotom-1, Rotom-2, Rotom-3, Rotom-4, Rotom-5, Dialga-1, Palkia-1, Giratina-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Basculin-2, Zorua-1, Zoroark-1, Braviary-1, Decidueye-1, Kleavor-1, Basculegion-1
+	Level Up: Pikachu @ 15, Raichu @ 15, Eevee @ 11, Vaporeon @ 11, Jolteon @ 11, Flareon @ 11, Cyndaquil @ 25, Quilava @ 25, Typhlosion-1 @ 25, Pichu @ 15, Aipom @ 11, Espeon @ 11, Umbreon @ 11, Sneasel @ 11, Sneasel-1 @ 11, Chimchar @ 11, Monferno @ 11, Infernape @ 11, Buizel @ 11, Floatzel @ 11, Ambipom @ 11, Buneary @ 10, Lopunny @ 10, Chatot @ 6, Weavile @ 11, Leafeon @ 11, Glaceon @ 11, Uxie @ 6, Mesprit @ 6, Azelf @ 6, Zorua-1 @ 11, Zoroark-1 @ 11, Sylveon @ 11, Sneasler @ 11
+Skull Bash:
+	Level Up: None.
+Spike Cannon:
+	Level Up: None.
+Constrict:
+	Level Up: None.
+Amnesia:
+	Level Up: None.
+Kinesis:
+	Level Up: None.
+Soft-Boiled:
+	Level Up: Chansey @ 34, Blissey @ 34, Happiny @ 34
+High Jump Kick:
+	Level Up: None.
+Glare:
+	Level Up: None.
+Dream Eater:
+	Level Up: None.
+Poison Gas:
+	Level Up: Gastly @ 6, Haunter @ 6, Gengar @ 6, Magmar @ 18, Magby @ 18, Stunky @ 11, Skuntank @ 11, Magmortar @ 18
+Barrage:
+	Level Up: None.
+Leech Life:
+	Tutors: Zubat, Golbat, Paras, Parasect, Crobat, Yanma, Beautifly, Duskull, Dusclops, Kricketune, Drapion, Carnivine, Yanmega, Dusknoir
+	Level Up: Zubat @ 43, Golbat @ 43, Crobat @ 43, Duskull @ 18, Dusclops @ 18, Dusknoir @ 18
+Lovely Kiss:
+	Level Up: None.
+Sky Attack:
+	Level Up: None.
+Transform:
+	Level Up: None.
+Bubble:
+	Level Up: Psyduck @ 1, Golduck @ 1, Tentacool @ 6, Tentacruel @ 6, Vaporeon @ 0, Remoraid @ 1, Octillery @ 1, Mantine @ 5, Piplup @ 6, Prinplup @ 6, Empoleon @ 6, Finneon @ 1, Lumineon @ 1, Mantyke @ 5, Phione @ 1, Manaphy @ 1, Goomy @ 1, Sliggoo-1 @ 1, Goodra-1 @ 1
+Dizzy Punch:
+	Level Up: None.
+Spore:
+	Level Up: Paras @ 29, Parasect @ 29
+Flash:
+	Level Up: None.
+Psywave:
+	Level Up: None.
+Splash:
+	Level Up: Magikarp @ 1, Gyarados @ 1
+Acid Armor:
+	Level Up: Tentacool @ 34, Tentacruel @ 34, Phione @ 19, Manaphy @ 19, Goomy @ 11, Sliggoo-1 @ 11, Goodra-1 @ 11
+Crabhammer:
+	Level Up: None.
+Explosion:
+	Level Up: None.
+Fury Swipes:
+	Level Up: None.
+Bonemerang:
+	Level Up: None.
+Rest:
+	Tutors: Pikachu, Raichu, Clefairy, Clefable, Vulpix, Ninetales, Zubat, Golbat, Paras, Parasect, Psyduck, Golduck, Abra, Kadabra, Alakazam, Machop, Machoke, Machamp, Tentacool, Tentacruel, Geodude, Graveler, Golem, Ponyta, Rapidash, Magnemite, Magneton, Gastly, Haunter, Gengar, Onix, Lickitung, Rhyhorn, Rhydon, Chansey, Tangela, Mr. Mime, Scyther, Electabuzz, Magmar, Gyarados, Eevee, Vaporeon, Jolteon, Flareon, Porygon, Snorlax, Cyndaquil, Quilava, Crobat, Pichu, Cleffa, Togepi, Togetic, Sudowoodo, Aipom, Yanma, Espeon, Umbreon, Murkrow, Misdreavus, Gligar, Steelix, Scizor, Heracross, Sneasel, Teddiursa, Ursaring, Swinub, Piloswine, Remoraid, Octillery, Mantine, Porygon2, Stantler, Elekid, Magby, Blissey, Beautifly, Dustox, Ralts, Kirlia, Gardevoir, Nosepass, Roselia, Barboach, Whiscash, Duskull, Dusclops, Chimecho, Snorunt, Glalie, Spheal, Sealeo, Walrein, Turtwig, Grotle, Torterra, Chimchar, Monferno, Infernape, Piplup, Prinplup, Empoleon, Starly, Staravia, Staraptor, Bidoof, Bibarel, Kricketune, Shinx, Luxio, Luxray, Budew, Roserade, Cranidos, Rampardos, Shieldon, Bastiodon, Wormadam, Mothim, Vespiquen, Pachirisu, Buizel, Floatzel, Cherubi, Cherrim, Shellos, Gastrodon, Ambipom, Drifloon, Drifblim, Buneary, Lopunny, Mismagius, Honchkrow, Glameow, Purugly, Chingling, Stunky, Skuntank, Bronzor, Bronzong, Bonsly, Mime Jr., Happiny, Chatot, Spiritomb, Gible, Gabite, Garchomp, Munchlax, Riolu, Lucario, Hippopotas, Hippowdon, Skorupi, Drapion, Croagunk, Toxicroak, Carnivine, Finneon, Lumineon, Mantyke, Snover, Abomasnow, Weavile, Magnezone, Lickilicky, Rhyperior, Tangrowth, Electivire, Magmortar, Togekiss, Yanmega, Leafeon, Glaceon, Gliscor, Mamoswine, Porygon-Z, Gallade, Probopass, Dusknoir, Froslass, Rotom, Uxie, Mesprit, Azelf, Dialga, Palkia, Heatran, Regigigas, Giratina, Cresselia, Phione, Manaphy, Darkrai, Shaymin, Arceus, Oshawott, Dewott, Petilil, Rufflet, Tornadus, Thundurus, Landorus, Sylveon, Goomy, Bergmite, Rowlet, Dartrix, Wyrdeer, Kleavor, Ursaluna, Basculegion, Sneasler, Overqwil, Enamorus, Vulpix-1, Ninetales-1, Growlithe-1, Arcanine-1, Arcanine-2, Voltorb-1, Electrode-1, Electrode-2, Typhlosion-1, Qwilfish-1, Sneasel-1, Wormadam-1, Wormadam-2, Mothim-1, Mothim-2, Cherrim-1, Shellos-1, Gastrodon-1, Rotom-1, Rotom-2, Rotom-3, Rotom-4, Rotom-5, Dialga-1, Palkia-1, Giratina-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Lilligant-1, Lilligant-2, Basculin-2, Zorua-1, Zoroark-1, Braviary-1, Tornadus-1, Thundurus-1, Landorus-1, Sliggoo-1, Goodra-1, Avalugg-1, Avalugg-2, Decidueye-1, Kleavor-1, Basculegion-1, Enamorus-1
+	Level Up: Lickitung @ 6, Snorlax @ 9, Barboach @ 18, Whiscash @ 18, Spheal @ 18, Sealeo @ 18, Walrein @ 18, Bidoof @ 16, Bibarel @ 16, Munchlax @ 9, Hippopotas @ 6, Hippowdon @ 6, Lickilicky @ 6, Uxie @ 19, Mesprit @ 19, Azelf @ 19
+Rock Slide:
+	Tutors: Machop, Machoke, Machamp, Geodude, Graveler, Golem, Onix, Lickitung, Rhyhorn, Rhydon, Chansey, Snorlax, Sudowoodo, Gligar, Steelix, Heracross, Teddiursa, Ursaring, Swinub, Piloswine, Mantine, Blissey, Nosepass, Whiscash, Dusclops, Spheal, Sealeo, Walrein, Torterra, Monferno, Infernape, Empoleon, Cranidos, Rampardos, Shieldon, Bastiodon, Gastrodon, Bronzor, Bronzong, Bonsly, Gible, Gabite, Garchomp, Munchlax, Riolu, Lucario, Hippopotas, Hippowdon, Drapion, Croagunk, Toxicroak, Mantyke, Abomasnow, Lickilicky, Rhyperior, Tangrowth, Electivire, Magmortar, Gliscor, Mamoswine, Gallade, Probopass, Dusknoir, Dialga, Palkia, Heatran, Regigigas, Darkrai, Arceus, Rufflet, Landorus, Goomy, Bergmite, Kleavor, Ursaluna, Growlithe-1, Arcanine-1, Arcanine-2, Typhlosion-1, Gastrodon-1, Dialga-1, Palkia-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Braviary-1, Landorus-1, Sliggoo-1, Goodra-1, Avalugg-1, Avalugg-2, Kleavor-1
+	Level Up: Growlithe-1 @ 21, Arcanine-1 @ 21, Arcanine-2 @ 21, Geodude @ 21, Graveler @ 21, Golem @ 21, Onix @ 18, Rhyhorn @ 25, Rhydon @ 25, Sudowoodo @ 15, Steelix @ 18, Nosepass @ 25, Cranidos @ 15, Rampardos @ 15, Shieldon @ 15, Bastiodon @ 15, Bonsly @ 15, Rhyperior @ 25, Probopass @ 25, Avalugg-1 @ 0, Avalugg-2 @ 0
+Hyper Fang:
+	Level Up: None.
+Sharpen:
+	Level Up: None.
+Conversion:
+	Level Up: None.
+Tri Attack:
+	Tutors: Clefairy, Clefable, Psyduck, Golduck, Abra, Kadabra, Alakazam, Magneton, Chansey, Porygon, Togepi, Togetic, Porygon2, Blissey, Magnezone, Togekiss, Porygon-Z, Probopass, Uxie, Mesprit, Azelf
+	Level Up: Magneton @ 25, Porygon @ 21, Porygon2 @ 21, Magnezone @ 25, Porygon-Z @ 21, Probopass @ 34, Uxie @ 32, Mesprit @ 32, Azelf @ 32
+Super Fang:
+	Level Up: None.
+Slash:
+	Level Up: Paras @ 21, Parasect @ 21, Gligar @ 25, Heracross @ 21, Sneasel @ 18, Sneasel-1 @ 18, Teddiursa @ 18, Ursaring @ 18, Kricketune @ 15, Vespiquen @ 25, Glameow @ 16, Purugly @ 16, Gible @ 15, Gabite @ 15, Garchomp @ 15, Weavile @ 18, Gliscor @ 25, Gallade @ 0, Dialga @ 12, Dialga-1 @ 12, Palkia @ 12, Palkia-1 @ 12, Cresselia @ 12, Oshawott @ 25, Dewott @ 25, Samurott-1 @ 25, Zorua-1 @ 25, Zoroark-1 @ 25, Rufflet @ 18, Braviary-1 @ 18, Ursaluna @ 18, Sneasler @ 18
+Substitute:
+	Level Up: None.
+Struggle:
+	Level Up: None.
+Sketch:
+	Level Up: None.
+Triple Kick:
+	Level Up: None.
+Thief:
+	Level Up: None.
+Spider Web:
+	Level Up: None.
+Mind Reader:
+	Level Up: None.
+Nightmare:
+	Level Up: None.
+Flame Wheel:
+	Level Up: Vulpix @ 15, Ninetales @ 15, Ponyta @ 15, Rapidash @ 15, Magmar @ 11, Cyndaquil @ 18, Quilava @ 18, Typhlosion-1 @ 18, Magby @ 11, Chimchar @ 18, Monferno @ 18, Infernape @ 18, Magmortar @ 11
+Snore:
+	Level Up: None.
+Curse:
+	Level Up: None.
+Flail:
+	Level Up: None.
+Conversion 2:
+	Level Up: None.
+Aeroblast:
+	Level Up: None.
+Cotton Spore:
+	Level Up: None.
+Reversal:
+	Level Up: None.
+Spite:
+	Level Up: None.
+Powder Snow:
+	Level Up: Vulpix-1 @ 1, Ninetales-1 @ 1, Snorunt @ 1, Glalie @ 1, Spheal @ 6, Sealeo @ 6, Walrein @ 6, Snover @ 1, Abomasnow @ 1, Glaceon @ 0, Froslass @ 1, Bergmite @ 5, Avalugg-1 @ 5, Avalugg-2 @ 5
+Protect:
+	Level Up: None.
+Mach Punch:
+	Level Up: Machop @ 22, Machoke @ 22, Machamp @ 22, Monferno @ 16, Infernape @ 16, Lopunny @ 1, Lucario @ 19
+Scary Face:
+	Level Up: None.
+Feint Attack:
+	Level Up: None.
+Sweet Kiss:
+	Level Up: None.
+Belly Drum:
+	Level Up: None.
+Sludge Bomb:
+	Tutors: Zubat, Golbat, Paras, Parasect, Tentacool, Tentacruel, Gastly, Haunter, Gengar, Tangela, Crobat, Gligar, Octillery, Dustox, Roselia, Budew, Roserade, Vespiquen, Gastrodon, Stunky, Skuntank, Skorupi, Drapion, Croagunk, Toxicroak, Carnivine, Tangrowth, Gliscor, Darkrai, Arceus, Tornadus, Thundurus, Landorus, Goomy, Overqwil, Enamorus, Qwilfish-1, Gastrodon-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Zorua-1, Zoroark-1, Tornadus-1, Thundurus-1, Landorus-1, Sliggoo-1, Goodra-1, Enamorus-1
+	Level Up: Tangrowth @ 52
+Mud-Slap:
+	Level Up: Geodude @ 9, Graveler @ 9, Golem @ 9, Barboach @ 1, Whiscash @ 1, Shellos @ 1, Shellos-1 @ 1, Gastrodon @ 1, Gastrodon-1 @ 1
+Octazooka:
+	Level Up: Octillery @ 0
+Spikes:
+	Tutors: Heracross, Roselia, Snorunt, Glalie, Budew, Roserade, Gliscor, Froslass, Overqwil, Qwilfish-1, Decidueye-1
+	Level Up: Qwilfish-1 @ 5, Overqwil @ 5
+Zap Cannon:
+	Level Up: None.
+Foresight:
+	Level Up: None.
+Destiny Bond:
+	Level Up: None.
+Perish Song:
+	Level Up: None.
+Icy Wind:
+	Tutors: Clefairy, Clefable, Psyduck, Golduck, Tentacool, Tentacruel, Gastly, Haunter, Gengar, Lickitung, Rhyhorn, Rhydon, Chansey, Mr. Mime, Gyarados, Vaporeon, Porygon, Snorlax, Cleffa, Murkrow, Misdreavus, Sneasel, Swinub, Piloswine, Remoraid, Octillery, Mantine, Porygon2, Blissey, Ralts, Kirlia, Gardevoir, Barboach, Whiscash, Duskull, Dusclops, Chimecho, Snorunt, Glalie, Spheal, Sealeo, Walrein, Piplup, Prinplup, Empoleon, Bidoof, Bibarel, Buizel, Floatzel, Shellos, Gastrodon, Drifloon, Drifblim, Mismagius, Honchkrow, Chingling, Mime Jr., Happiny, Spiritomb, Munchlax, Croagunk, Toxicroak, Finneon, Lumineon, Mantyke, Snover, Abomasnow, Weavile, Lickilicky, Rhyperior, Glaceon, Mamoswine, Porygon-Z, Gallade, Dusknoir, Froslass, Regigigas, Giratina, Cresselia, Phione, Manaphy, Darkrai, Arceus, Oshawott, Dewott, Tornadus, Bergmite, Basculegion, Overqwil, Vulpix-1, Ninetales-1, Qwilfish-1, Shellos-1, Gastrodon-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Basculin-2, Tornadus-1, Avalugg-1, Avalugg-2, Basculegion-1
+	Level Up: None.
+Detect:
+	Level Up: None.
+Bone Rush:
+	Level Up: None.
+Lock-On:
+	Level Up: None.
+Outrage:
+	Tutors: Rhydon, Gyarados, Snorlax, Heracross, Torterra, Rampardos, Bastiodon, Gible, Gabite, Garchomp, Abomasnow, Rhyperior, Dialga, Palkia, Giratina, Arceus, Landorus, Goomy, Growlithe-1, Arcanine-1, Arcanine-2, Dialga-1, Palkia-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Landorus-1, Sliggoo-1, Goodra-1
+	Level Up: Gible @ 47, Gabite @ 47, Garchomp @ 47
+Sandstorm:
+	Level Up: None.
+Giga Drain:
+	Level Up: None.
+Endure:
+	Level Up: None.
+Charm:
+	Level Up: None.
+Rollout:
+	Level Up: Geodude @ 1, Graveler @ 1, Golem @ 1, Onix @ 1, Lickitung @ 34, Snorlax @ 1, Cyndaquil @ 11, Quilava @ 11, Typhlosion-1 @ 11, Sudowoodo @ 1, Steelix @ 1, Spheal @ 1, Sealeo @ 1, Walrein @ 1, Bidoof @ 1, Bibarel @ 1, Bonsly @ 1, Munchlax @ 1, Lickilicky @ 34
+False Swipe:
+	Tutors: Paras, Parasect, Scyther, Gligar, Scizor, Heracross, Sneasel, Kricketune, Garchomp, Skorupi, Drapion, Weavile, Gliscor, Gallade, Oshawott, Dewott, Rowlet, Dartrix, Kleavor, Sneasler, Sneasel-1, Samurott-1, Decidueye-1, Kleavor-1
+	Level Up: None.
+Swagger:
+	Level Up: None.
+Milk Drink:
+	Level Up: None.
+Spark:
+	Level Up: Pikachu @ 21, Raichu @ 21, Magnemite @ 18, Magneton @ 18, Voltorb-1 @ 15, Electrode-1 @ 15, Electrode-2 @ 15, Electabuzz @ 11, Porygon @ 15, Pichu @ 21, Porygon2 @ 15, Elekid @ 11, Nosepass @ 11, Pachirisu @ 15, Magnezone @ 18, Electivire @ 11, Porygon-Z @ 15, Probopass @ 11, Thundurus @ 14, Thundurus-1 @ 14
+Fury Cutter:
+	Level Up: None.
+Steel Wing:
+	Level Up: None.
+Mean Look:
+	Level Up: None.
+Attract:
+	Level Up: None.
+Sleep Talk:
+	Level Up: None.
+Heal Bell:
+	Level Up: None.
+Return:
+	Level Up: None.
+Present:
+	Level Up: None.
+Frustration:
+	Level Up: None.
+Safeguard:
+	Level Up: None.
+Pain Split:
+	Level Up: None.
+Sacred Fire:
+	Level Up: None.
+Magnitude:
+	Level Up: None.
+Dynamic Punch:
+	Level Up: None.
+Megahorn:
+	Tutors: Rapidash, Rhyhorn, Rhydon, Heracross, Stantler, Rhyperior, Wyrdeer, Samurott-1
+	Level Up: Heracross @ 57
+Dragon Breath:
+	Level Up: None.
+Baton Pass:
+	Level Up: None.
+Encore:
+	Level Up: None.
+Pursuit:
+	Level Up: None.
+Rapid Spin:
+	Level Up: None.
+Sweet Scent:
+	Level Up: None.
+Iron Tail:
+	Tutors: Pikachu, Raichu, Clefairy, Clefable, Vulpix, Ninetales, Psyduck, Golduck, Abra, Kadabra, Alakazam, Ponyta, Rapidash, Onix, Lickitung, Rhyhorn, Rhydon, Chansey, Electabuzz, Magmar, Gyarados, Eevee, Vaporeon, Jolteon, Flareon, Porygon, Cyndaquil, Quilava, Pichu, Cleffa, Aipom, Espeon, Umbreon, Gligar, Steelix, Sneasel, Porygon2, Stantler, Magby, Blissey, Spheal, Sealeo, Walrein, Turtwig, Grotle, Torterra, Chimchar, Monferno, Infernape, Bidoof, Bibarel, Shinx, Luxio, Luxray, Cranidos, Rampardos, Shieldon, Bastiodon, Pachirisu, Buizel, Floatzel, Ambipom, Buneary, Lopunny, Glameow, Purugly, Stunky, Skuntank, Gible, Gabite, Garchomp, Riolu, Lucario, Hippopotas, Hippowdon, Skorupi, Drapion, Snover, Abomasnow, Weavile, Lickilicky, Rhyperior, Electivire, Magmortar, Leafeon, Glaceon, Gliscor, Porygon-Z, Uxie, Mesprit, Azelf, Dialga, Giratina, Arceus, Oshawott, Dewott, Tornadus, Thundurus, Landorus, Sylveon, Goomy, Wyrdeer, Sneasler, Vulpix-1, Ninetales-1, Growlithe-1, Arcanine-1, Arcanine-2, Typhlosion-1, Sneasel-1, Dialga-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Tornadus-1, Thundurus-1, Landorus-1, Sliggoo-1, Goodra-1
+	Level Up: Pikachu @ 37, Raichu @ 37, Onix @ 43, Pichu @ 37, Aipom @ 34, Steelix @ 43, Ambipom @ 34, Dialga @ 47, Dialga-1 @ 47
+Metal Claw:
+	Level Up: None.
+Vital Throw:
+	Level Up: None.
+Morning Sun:
+	Level Up: None.
+Synthesis:
+	Level Up: None.
+Moonlight:
+	Level Up: None.
+Hidden Power:
+	Level Up: Unown @ 1, Unown-1 @ 1, Unown-2 @ 1, Unown-3 @ 1, Unown-4 @ 1, Unown-5 @ 1, Unown-6 @ 1, Unown-7 @ 1, Unown-8 @ 1, Unown-9 @ 1, Unown-10 @ 1, Unown-11 @ 1, Unown-12 @ 1, Unown-13 @ 1, Unown-14 @ 1, Unown-15 @ 1, Unown-16 @ 1, Unown-17 @ 1, Unown-18 @ 1, Unown-19 @ 1, Unown-20 @ 1, Unown-21 @ 1, Unown-22 @ 1, Unown-23 @ 1, Unown-24 @ 1, Unown-25 @ 1, Unown-26 @ 1, Unown-27 @ 1
+Cross Chop:
+	Level Up: None.
+Twister:
+	Level Up: Gyarados @ 5, Gible @ 5, Gabite @ 5, Garchomp @ 5, Dialga @ 1, Dialga-1 @ 1, Palkia @ 1, Palkia-1 @ 1, Rufflet @ 11, Braviary-1 @ 11, Tornadus @ 11, Tornadus-1 @ 11, Thundurus @ 11, Thundurus-1 @ 11, Landorus @ 11, Landorus-1 @ 11, Enamorus @ 11, Enamorus-1 @ 11
+Rain Dance:
+	Level Up: None.
+Sunny Day:
+	Level Up: None.
+Crunch:
+	Level Up: Growlithe-1 @ 29, Arcanine-1 @ 29, Arcanine-2 @ 29, Gyarados @ 21, Snorlax @ 35, Snorunt @ 25, Glalie @ 25, Bidoof @ 23, Bibarel @ 23, Shinx @ 29, Luxio @ 29, Luxray @ 29, Cranidos @ 29, Rampardos @ 29, Pachirisu @ 29, Floatzel @ 30, Riolu @ 29, Lucario @ 29, Hippopotas @ 25, Hippowdon @ 25, Skorupi @ 43, Drapion @ 43, Carnivine @ 25, Yanmega @ 43, Froslass @ 25, Heatran @ 36, Basculin-2 @ 25, Tornadus @ 41, Tornadus-1 @ 41, Thundurus @ 41, Thundurus-1 @ 41, Landorus @ 41, Landorus-1 @ 41, Bergmite @ 29, Avalugg-1 @ 29, Avalugg-2 @ 29, Basculegion @ 25, Basculegion-1 @ 25, Enamorus @ 41, Enamorus-1 @ 41
+Mirror Coat:
+	Level Up: None.
+Psych Up:
+	Level Up: None.
+Extreme Speed:
+	Level Up: None.
+Ancient Power:
+	Level Up: Tangela @ 34, Yanma @ 34, Swinub @ 34, Piloswine @ 34, Cranidos @ 5, Rampardos @ 5, Shieldon @ 5, Bastiodon @ 5, Shellos @ 15, Shellos-1 @ 15, Gastrodon @ 15, Gastrodon-1 @ 15, Tangrowth @ 34, Yanmega @ 34, Mamoswine @ 34, Dialga @ 6, Dialga-1 @ 6, Palkia @ 6, Palkia-1 @ 6, Heatran @ 12, Regigigas @ 19, Giratina @ 6, Giratina-1 @ 6, Arceus @ 12, Arceus-1 @ 12, Arceus-2 @ 12, Arceus-3 @ 12, Arceus-4 @ 12, Arceus-5 @ 12, Arceus-6 @ 12, Arceus-7 @ 12, Arceus-8 @ 12, Arceus-9 @ 12, Arceus-10 @ 12, Arceus-11 @ 12, Arceus-12 @ 12, Arceus-13 @ 12, Arceus-14 @ 12, Arceus-15 @ 12, Arceus-16 @ 12, Arceus-17 @ 12, Arceus-18 @ 12
+Shadow Ball:
+	Tutors: Clefairy, Clefable, Ninetales, Zubat, Golbat, Abra, Kadabra, Alakazam, Gastly, Haunter, Gengar, Chansey, Mr. Mime, Eevee, Vaporeon, Jolteon, Flareon, Porygon, Snorlax, Crobat, Cleffa, Togepi, Togetic, Aipom, Yanma, Espeon, Umbreon, Murkrow, Misdreavus, Sneasel, Porygon2, Stantler, Blissey, Beautifly, Dustox, Ralts, Kirlia, Gardevoir, Roselia, Duskull, Dusclops, Chimecho, Snorunt, Glalie, Bidoof, Bibarel, Budew, Roserade, Wormadam, Mothim, Ambipom, Drifloon, Drifblim, Buneary, Lopunny, Mismagius, Honchkrow, Glameow, Purugly, Chingling, Stunky, Skuntank, Bronzor, Bronzong, Mime Jr., Happiny, Spiritomb, Munchlax, Lucario, Skorupi, Drapion, Croagunk, Toxicroak, Snover, Abomasnow, Weavile, Lickilicky, Togekiss, Yanmega, Leafeon, Glaceon, Porygon-Z, Gallade, Dusknoir, Froslass, Rotom, Uxie, Mesprit, Azelf, Giratina, Cresselia, Manaphy, Darkrai, Arceus, Sylveon, Wyrdeer, Basculegion, Sneasler, Overqwil, Typhlosion-1, Qwilfish-1, Sneasel-1, Wormadam-1, Wormadam-2, Mothim-1, Mothim-2, Rotom-1, Rotom-2, Rotom-3, Rotom-4, Rotom-5, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Zorua-1, Zoroark-1, Basculegion-1
+	Level Up: Gastly @ 43, Haunter @ 43, Gengar @ 43, Typhlosion-1 @ 43, Misdreavus @ 43, Duskull @ 34, Dusclops @ 34, Drifloon @ 37, Drifblim @ 37, Mismagius @ 43, Spiritomb @ 43, Dusknoir @ 34, Froslass @ 25, Rotom @ 25, Rotom-1 @ 25, Rotom-2 @ 25, Rotom-3 @ 25, Rotom-4 @ 25, Rotom-5 @ 25, Giratina @ 30, Giratina-1 @ 30, Darkrai @ 36, Zoroark-1 @ 40, Basculegion @ 25, Basculegion-1 @ 25
+Future Sight:
+	Level Up: None.
+Rock Smash:
+	Tutors: Pikachu, Raichu, Clefairy, Clefable, Paras, Parasect, Psyduck, Golduck, Machop, Machoke, Machamp, Geodude, Graveler, Golem, Gengar, Onix, Lickitung, Rhyhorn, Rhydon, Chansey, Tangela, Scyther, Electabuzz, Magmar, Gyarados, Vaporeon, Jolteon, Flareon, Snorlax, Quilava, Togepi, Togetic, Sudowoodo, Aipom, Espeon, Umbreon, Gligar, Steelix, Scizor, Heracross, Sneasel, Teddiursa, Ursaring, Swinub, Piloswine, Elekid, Magby, Blissey, Nosepass, Whiscash, Dusclops, Spheal, Sealeo, Walrein, Turtwig, Grotle, Torterra, Chimchar, Monferno, Infernape, Piplup, Prinplup, Empoleon, Bidoof, Bibarel, Kricketune, Cranidos, Rampardos, Shieldon, Bastiodon, Buizel, Floatzel, Gastrodon, Ambipom, Buneary, Lopunny, Stunky, Skuntank, Bronzong, Gible, Gabite, Garchomp, Munchlax, Riolu, Lucario, Hippopotas, Hippowdon, Skorupi, Drapion, Croagunk, Toxicroak, Abomasnow, Weavile, Lickilicky, Rhyperior, Tangrowth, Electivire, Magmortar, Togekiss, Leafeon, Glaceon, Gliscor, Mamoswine, Gallade, Probopass, Dusknoir, Dialga, Palkia, Heatran, Regigigas, Giratina, Darkrai, Arceus, Oshawott, Dewott, Rufflet, Tornadus, Thundurus, Landorus, Sylveon, Bergmite, Kleavor, Ursaluna, Sneasler, Enamorus, Growlithe-1, Arcanine-1, Arcanine-2, Typhlosion-1, Sneasel-1, Gastrodon-1, Dialga-1, Palkia-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Lilligant-1, Lilligant-2, Zoroark-1, Braviary-1, Tornadus-1, Thundurus-1, Landorus-1, Goodra-1, Avalugg-1, Avalugg-2, Decidueye-1, Kleavor-1, Enamorus-1
+	Level Up: Machop @ 6, Machoke @ 6, Machamp @ 6, Rhyhorn @ 11, Rhydon @ 11, Heracross @ 5, Sneasel-1 @ 6, Riolu @ 1, Lucario @ 1, Croagunk @ 5, Toxicroak @ 5, Rhyperior @ 11, Regigigas @ 6, Lilligant-1 @ 0, Lilligant-2 @ 0, Decidueye-1 @ 0, Sneasler @ 6
+Whirlpool:
+	Level Up: None.
+Beat Up:
+	Level Up: None.
+Fake Out:
+	Level Up: None.
+Uproar:
+	Level Up: None.
+Stockpile:
+	Level Up: None.
+Spit Up:
+	Level Up: None.
+Swallow:
+	Level Up: None.
+Heat Wave:
+	Level Up: None.
+Hail:
+	Level Up: None.
+Torment:
+	Level Up: None.
+Flatter:
+	Level Up: None.
+Will-O-Wisp:
+	Level Up: None.
+Memento:
+	Level Up: None.
+Facade:
+	Level Up: None.
+Focus Punch:
+	Level Up: None.
+Smelling Salts:
+	Level Up: None.
+Follow Me:
+	Level Up: None.
+Nature Power:
+	Level Up: None.
+Charge:
+	Level Up: None.
+Taunt:
+	Level Up: None.
+Helping Hand:
+	Level Up: None.
+Trick:
+	Level Up: None.
+Role Play:
+	Level Up: None.
+Wish:
+	Level Up: None.
+Assist:
+	Level Up: None.
+Ingrain:
+	Level Up: None.
+Superpower:
+	Level Up: None.
+Magic Coat:
+	Level Up: None.
+Recycle:
+	Level Up: None.
+Revenge:
+	Level Up: None.
+Brick Break:
+	Level Up: None.
+Yawn:
+	Level Up: None.
+Knock Off:
+	Level Up: None.
+Endeavor:
+	Level Up: None.
+Eruption:
+	Level Up: None.
+Skill Swap:
+	Level Up: None.
+Imprison:
+	Level Up: None.
+Refresh:
+	Level Up: None.
+Grudge:
+	Level Up: None.
+Snatch:
+	Level Up: None.
+Secret Power:
+	Level Up: None.
+Dive:
+	Level Up: None.
+Arm Thrust:
+	Level Up: None.
+Camouflage:
+	Level Up: None.
+Tail Glow:
+	Level Up: None.
+Luster Purge:
+	Level Up: None.
+Mist Ball:
+	Level Up: None.
+Feather Dance:
+	Level Up: None.
+Teeter Dance:
+	Level Up: None.
+Blaze Kick:
+	Level Up: None.
+Mud Sport:
+	Level Up: None.
+Ice Ball:
+	Tutors: Lickitung, Snorlax, Steelix, Glalie, Spheal, Sealeo, Walrein, Lickilicky, Bergmite, Overqwil, Voltorb-1, Electrode-1, Electrode-2, Qwilfish-1, Avalugg-1, Avalugg-2
+	Level Up: Glalie @ 1
+Needle Arm:
+	Level Up: None.
+Slack Off:
+	Level Up: None.
+Hyper Voice:
+	Level Up: None.
+Poison Fang:
+	Level Up: None.
+Crush Claw:
+	Level Up: None.
+Blast Burn:
+	Level Up: None.
+Hydro Cannon:
+	Level Up: None.
+Meteor Mash:
+	Level Up: None.
+Astonish:
+	Level Up: Gastly @ 1, Haunter @ 1, Gengar @ 1, Drifloon @ 9, Drifblim @ 9
+Weather Ball:
+	Level Up: None.
+Aromatherapy:
+	Level Up: None.
+Fake Tears:
+	Level Up: None.
+Air Cutter:
+	Level Up: Zubat @ 18, Golbat @ 18, Crobat @ 18, Togetic @ 0, Beautifly @ 0, Chatot @ 11, Togekiss @ 11, Tornadus @ 14, Tornadus-1 @ 14
+Overheat:
+	Level Up: Cyndaquil @ 43, Quilava @ 43, Typhlosion-1 @ 43
+Odor Sleuth:
+	Level Up: None.
+Rock Tomb:
+	Level Up: None.
+Silver Wind:
+	Level Up: Scyther @ 6, Yanma @ 11, Scizor @ 6, Beautifly @ 18, Dustox @ 18, Wormadam @ 18, Wormadam-1 @ 18, Wormadam-2 @ 18, Mothim @ 18, Mothim-1 @ 18, Mothim-2 @ 18, Vespiquen @ 18, Finneon @ 18, Lumineon @ 18, Yanmega @ 11, Kleavor @ 6, Kleavor-1 @ 6
+Metal Sound:
+	Level Up: None.
+Grass Whistle:
+	Level Up: None.
+Tickle:
+	Level Up: None.
+Cosmic Power:
+	Level Up: None.
+Water Spout:
+	Level Up: None.
+Signal Beam:
+	Level Up: None.
+Shadow Punch:
+	Level Up: None.
+Extrasensory:
+	Level Up: Vulpix @ 29, Ninetales @ 29, Togepi @ 34, Togetic @ 34, Misdreavus @ 25, Stantler @ 29, Dustox @ 34, Chimecho @ 25, Drifloon @ 29, Drifblim @ 29, Mismagius @ 25, Chingling @ 25, Bronzor @ 43, Bronzong @ 43, Spiritomb @ 25, Togekiss @ 34, Uxie @ 27, Mesprit @ 27, Azelf @ 27, Arceus @ 36, Arceus-1 @ 36, Arceus-2 @ 36, Arceus-3 @ 36, Arceus-4 @ 36, Arceus-5 @ 36, Arceus-6 @ 36, Arceus-7 @ 36, Arceus-8 @ 36, Arceus-9 @ 36, Arceus-10 @ 36, Arceus-11 @ 36, Arceus-12 @ 36, Arceus-13 @ 36, Arceus-14 @ 36, Arceus-15 @ 36, Arceus-16 @ 36, Arceus-17 @ 36, Arceus-18 @ 36, Zoroark-1 @ 52, Tornadus @ 31, Tornadus-1 @ 31, Thundurus @ 31, Thundurus-1 @ 31, Landorus @ 31, Landorus-1 @ 31, Wyrdeer @ 29, Enamorus @ 31, Enamorus-1 @ 31
+Sky Uppercut:
+	Level Up: None.
+Sand Tomb:
+	Level Up: None.
+Sheer Cold:
+	Level Up: None.
+Muddy Water:
+	Level Up: None.
+Bullet Seed:
+	Level Up: None.
+Aerial Ace:
+	Tutors: Zubat, Golbat, Paras, Parasect, Psyduck, Golduck, Mr. Mime, Scyther, Porygon, Cyndaquil, Quilava, Crobat, Togetic, Aipom, Murkrow, Misdreavus, Gligar, Scizor, Heracross, Sneasel, Teddiursa, Ursaring, Mantine, Porygon2, Beautifly, Dustox, Whiscash, Chimchar, Monferno, Infernape, Piplup, Prinplup, Empoleon, Starly, Staravia, Staraptor, Kricketune, Mothim, Vespiquen, Ambipom, Mismagius, Honchkrow, Glameow, Purugly, Chatot, Gible, Gabite, Garchomp, Skorupi, Drapion, Lumineon, Mantyke, Weavile, Tangrowth, Togekiss, Yanmega, Leafeon, Gliscor, Porygon-Z, Gallade, Dialga, Palkia, Regigigas, Giratina, Darkrai, Shaymin, Arceus, Oshawott, Dewott, Rufflet, Tornadus, Rowlet, Dartrix, Kleavor, Ursaluna, Sneasler, Growlithe-1, Arcanine-1, Arcanine-2, Typhlosion-1, Sneasel-1, Mothim-1, Mothim-2, Dialga-1, Palkia-1, Giratina-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Lilligant-1, Lilligant-2, Zorua-1, Zoroark-1, Braviary-1, Tornadus-1, Decidueye-1, Kleavor-1
+	Level Up: Scyther @ 11, Murkrow @ 18, Gligar @ 11, Scizor @ 11, Heracross @ 15, Mantine @ 9, Piplup @ 11, Prinplup @ 11, Empoleon @ 11, Starly @ 9, Staravia @ 9, Staraptor @ 9, Kricketune @ 9, Honchkrow @ 18, Mantyke @ 9, Gliscor @ 11, Rufflet @ 6, Braviary-1 @ 6, Rowlet @ 18, Dartrix @ 18, Decidueye-1 @ 18, Kleavor @ 11, Kleavor-1 @ 11
+Icicle Spear:
+	Level Up: None.
+Iron Defense:
+	Level Up: Geodude @ 15, Graveler @ 15, Golem @ 15, Mr. Mime @ 11, Sudowoodo @ 21, Silcoon @ 0, Beautifly @ 6, Cascoon @ 0, Dustox @ 6, Nosepass @ 18, Shieldon @ 9, Bastiodon @ 9, Bronzor @ 11, Bronzong @ 11, Bonsly @ 21, Mime Jr. @ 11, Riolu @ 15, Lucario @ 15, Probopass @ 18, Heatran @ 6, Bergmite @ 21, Avalugg-1 @ 21, Avalugg-2 @ 21, Enamorus @ 22, Enamorus-1 @ 22
+Block:
+	Level Up: None.
+Howl:
+	Level Up: None.
+Dragon Claw:
+	Level Up: Gible @ 21, Gabite @ 21, Garchomp @ 21, Dialga @ 19, Dialga-1 @ 19, Palkia @ 19, Palkia-1 @ 19, Giratina @ 36, Giratina-1 @ 36
+Frenzy Plant:
+	Level Up: None.
+Bulk Up:
+	Tutors: Machop, Machoke, Machamp, Heracross, Teddiursa, Ursaring, Chimchar, Monferno, Infernape, Buizel, Floatzel, Riolu, Lucario, Croagunk, Toxicroak, Gallade, Dialga, Palkia, Rufflet, Tornadus, Thundurus, Landorus, Ursaluna, Sneasler, Sneasel-1, Dialga-1, Palkia-1, Braviary-1, Tornadus-1, Thundurus-1, Landorus-1, Decidueye-1
+	Level Up: Machop @ 25, Machoke @ 25, Machamp @ 25, Riolu @ 37, Lucario @ 37, Landorus @ 22, Landorus-1 @ 22
+Bounce:
+	Level Up: None.
+Mud Shot:
+	Level Up: None.
+Poison Tail:
+	Level Up: None.
+Covet:
+	Level Up: None.
+Volt Tackle:
+	Tutors: Pikachu, Raichu, Pichu
+	Level Up: None.
+Magical Leaf:
+	Tutors: Clefairy, Clefable, Mr. Mime, Cleffa, Togetic, Ralts, Kirlia, Gardevoir, Roselia, Roserade, Wormadam, Cherubi, Cherrim, Mismagius, Carnivine, Snover, Abomasnow, Togekiss, Leafeon, Gallade, Shaymin, Petilil, Sylveon, Rowlet, Dartrix, Voltorb-1, Electrode-1, Electrode-2, Cherrim-1, Shaymin-1, Lilligant-1, Lilligant-2, Decidueye-1
+	Level Up: Rowlet @ 21, Dartrix @ 21, Decidueye-1 @ 21
+Water Sport:
+	Level Up: None.
+Calm Mind:
+	Tutors: Pikachu, Raichu, Clefairy, Clefable, Ninetales, Psyduck, Golduck, Abra, Kadabra, Alakazam, Chansey, Mr. Mime, Scyther, Eevee, Vaporeon, Jolteon, Flareon, Cleffa, Togepi, Togetic, Sudowoodo, Espeon, Umbreon, Murkrow, Misdreavus, Scizor, Heracross, Sneasel, Stantler, Blissey, Ralts, Kirlia, Gardevoir, Duskull, Dusclops, Chimecho, Infernape, Drifloon, Drifblim, Mismagius, Honchkrow, Chingling, Bonsly, Mime Jr., Happiny, Spiritomb, Lucario, Weavile, Togekiss, Leafeon, Glaceon, Gallade, Dusknoir, Uxie, Mesprit, Azelf, Giratina, Cresselia, Phione, Manaphy, Darkrai, Arceus, Landorus, Sylveon, Wyrdeer, Kleavor, Basculegion, Sneasler, Enamorus, Ninetales-1, Typhlosion-1, Sneasel-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Zorua-1, Zoroark-1, Landorus-1, Kleavor-1, Basculegion-1, Enamorus-1
+	Level Up: Clefairy @ 21, Clefable @ 21, Kadabra @ 11, Alakazam @ 11, Chansey @ 25, Mr. Mime @ 43, Eevee @ 34, Vaporeon @ 34, Jolteon @ 34, Flareon @ 34, Cleffa @ 21, Togepi @ 18, Togetic @ 18, Espeon @ 34, Umbreon @ 34, Stantler @ 15, Blissey @ 25, Ralts @ 25, Kirlia @ 25, Gardevoir @ 25, Drifloon @ 15, Drifblim @ 15, Mime Jr. @ 43, Happiny @ 25, Togekiss @ 18, Leafeon @ 34, Glaceon @ 34, Gallade @ 25, Uxie @ 36, Mesprit @ 36, Arceus @ 19, Arceus-1 @ 19, Arceus-2 @ 19, Arceus-3 @ 19, Arceus-4 @ 19, Arceus-5 @ 19, Arceus-6 @ 19, Arceus-7 @ 19, Arceus-8 @ 19, Arceus-9 @ 19, Arceus-10 @ 19, Arceus-11 @ 19, Arceus-12 @ 19, Arceus-13 @ 19, Arceus-14 @ 19, Arceus-15 @ 19, Arceus-16 @ 19, Arceus-17 @ 19, Arceus-18 @ 19, Sylveon @ 34, Wyrdeer @ 15
+Leaf Blade:
+	Level Up: Turtwig @ 34, Grotle @ 34, Torterra @ 34, Leafeon @ 25, Gallade @ 43, Lilligant-1 @ 37, Lilligant-2 @ 37, Rowlet @ 34, Dartrix @ 34, Decidueye-1 @ 34
+Dragon Dance:
+	Level Up: None.
+Rock Blast:
+	Level Up: None.
+Shock Wave:
+	Level Up: None.
+Water Pulse:
+	Tutors: Clefairy, Clefable, Psyduck, Golduck, Tentacool, Tentacruel, Lickitung, Chansey, Gyarados, Vaporeon, Snorlax, Cleffa, Togepi, Togetic, Aipom, Remoraid, Octillery, Mantine, Blissey, Barboach, Whiscash, Snorunt, Glalie, Spheal, Sealeo, Walrein, Piplup, Prinplup, Empoleon, Bibarel, Buizel, Floatzel, Shellos, Gastrodon, Ambipom, Buneary, Lopunny, Glameow, Purugly, Happiny, Spiritomb, Munchlax, Lucario, Hippopotas, Hippowdon, Finneon, Lumineon, Mantyke, Snover, Abomasnow, Lickilicky, Togekiss, Glaceon, Froslass, Uxie, Mesprit, Azelf, Palkia, Phione, Manaphy, Arceus, Oshawott, Dewott, Goomy, Bergmite, Basculegion, Overqwil, Qwilfish-1, Shellos-1, Gastrodon-1, Palkia-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Sliggoo-1, Goodra-1, Avalugg-1, Avalugg-2, Basculegion-1
+	Level Up: Psyduck @ 11, Golduck @ 11, Tentacool @ 11, Tentacruel @ 11, Gyarados @ 0, Qwilfish-1 @ 21, Remoraid @ 18, Octillery @ 18, Mantine @ 15, Barboach @ 6, Whiscash @ 6, Spheal @ 11, Sealeo @ 11, Walrein @ 11, Piplup @ 18, Prinplup @ 18, Empoleon @ 18, Bibarel @ 0, Buizel @ 18, Floatzel @ 18, Shellos @ 9, Shellos-1 @ 9, Gastrodon @ 9, Gastrodon-1 @ 9, Finneon @ 11, Lumineon @ 11, Mantyke @ 15, Phione @ 12, Manaphy @ 12, Oshawott @ 18, Dewott @ 18, Samurott-1 @ 18, Goomy @ 18, Sliggoo-1 @ 18, Goodra-1 @ 18, Overqwil @ 21
+Doom Desire:
+	Level Up: None.
+Psycho Boost:
+	Level Up: None.
+Roost:
+	Level Up: Murkrow @ 11, Mantine @ 29, Piplup @ 25, Prinplup @ 25, Empoleon @ 25, Starly @ 21, Staravia @ 21, Staraptor @ 21, Honchkrow @ 11, Chatot @ 18, Finneon @ 34, Lumineon @ 34, Mantyke @ 29, Rufflet @ 25, Braviary-1 @ 25, Rowlet @ 11, Dartrix @ 11, Decidueye-1 @ 11
+Gravity:
+	Level Up: None.
+Miracle Eye:
+	Level Up: None.
+Wake-Up Slap:
+	Level Up: None.
+Hammer Arm:
+	Level Up: None.
+Gyro Ball:
+	Level Up: None.
+Healing Wish:
+	Level Up: None.
+Brine:
+	Level Up: None.
+Natural Gift:
+	Level Up: None.
+Feint:
+	Level Up: None.
+Pluck:
+	Level Up: None.
+Tailwind:
+	Level Up: None.
+Acupressure:
+	Level Up: None.
+Metal Burst:
+	Level Up: None.
+U-turn:
+	Level Up: None.
+Close Combat:
+	Level Up: Machop @ 43, Machoke @ 43, Machamp @ 43, Scyther @ 43, Scizor @ 43, Heracross @ 47, Sneasel-1 @ 43, Infernape @ 57, Staraptor @ 0, Lopunny @ 40, Riolu @ 47, Lucario @ 47, Croagunk @ 47, Toxicroak @ 47, Gallade @ 52, Lilligant-1 @ 57, Lilligant-2 @ 57, Kleavor @ 43, Kleavor-1 @ 43, Sneasler @ 43
+Payback:
+	Level Up: None.
+Assurance:
+	Level Up: None.
+Embargo:
+	Level Up: None.
+Fling:
+	Level Up: None.
+Psycho Shift:
+	Level Up: None.
+Trump Card:
+	Level Up: None.
+Heal Block:
+	Level Up: None.
+Wring Out:
+	Level Up: None.
+Power Trick:
+	Level Up: None.
+Gastro Acid:
+	Level Up: None.
+Lucky Chant:
+	Level Up: None.
+Me First:
+	Level Up: None.
+Copycat:
+	Level Up: None.
+Power Swap:
+	Level Up: None.
+Guard Swap:
+	Level Up: None.
+Punishment:
+	Level Up: None.
+Last Resort:
+	Level Up: None.
+Worry Seed:
+	Level Up: None.
+Sucker Punch:
+	Level Up: None.
+Toxic Spikes:
+	Level Up: None.
+Heart Swap:
+	Level Up: None.
+Aqua Ring:
+	Level Up: None.
+Magnet Rise:
+	Level Up: None.
+Flare Blitz:
+	Level Up: Growlithe-1 @ 47, Arcanine-1 @ 47, Arcanine-2 @ 47, Ponyta @ 47, Rapidash @ 47, Infernape @ 52
+Force Palm:
+	Level Up: None.
+Aura Sphere:
+	Level Up: Gardevoir @ 40, Riolu @ 21, Lucario @ 21, Giratina @ 27, Giratina-1 @ 27, Decidueye-1 @ 30
+Rock Polish:
+	Level Up: None.
+Poison Jab:
+	Tutors: Machop, Machoke, Machamp, Tentacool, Tentacruel, Rapidash, Gastly, Haunter, Gengar, Rhyhorn, Rhydon, Gligar, Sneasel, Roselia, Monferno, Infernape, Budew, Roserade, Stunky, Skuntank, Garchomp, Riolu, Lucario, Skorupi, Drapion, Croagunk, Toxicroak, Weavile, Rhyperior, Tangrowth, Gliscor, Gallade, Darkrai, Arceus, Sneasler, Overqwil, Qwilfish-1, Sneasel-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Lilligant-1, Lilligant-2
+	Level Up: Tentacool @ 25, Tentacruel @ 25, Gligar @ 34, Qwilfish-1 @ 29, Sneasel @ 25, Sneasel-1 @ 25, Roselia @ 34, Budew @ 34, Roserade @ 34, Stunky @ 34, Skuntank @ 34, Croagunk @ 29, Toxicroak @ 29, Weavile @ 25, Gliscor @ 34, Sneasler @ 25, Overqwil @ 29
+Dark Pulse:
+	Tutors: Vulpix, Ninetales, Gastly, Haunter, Gengar, Gyarados, Crobat, Umbreon, Murkrow, Misdreavus, Gligar, Steelix, Sneasel, Duskull, Dusclops, Glalie, Mismagius, Honchkrow, Stunky, Skuntank, Spiritomb, Lucario, Skorupi, Drapion, Croagunk, Toxicroak, Weavile, Gliscor, Porygon-Z, Dusknoir, Rotom, Heatran, Giratina, Darkrai, Arceus, Tornadus, Thundurus, Overqwil, Vulpix-1, Ninetales-1, Qwilfish-1, Rotom-1, Rotom-2, Rotom-3, Rotom-4, Rotom-5, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Zorua-1, Zoroark-1, Tornadus-1, Thundurus-1
+	Level Up: Gastly @ 34, Haunter @ 34, Gengar @ 34, Umbreon @ 25, Murkrow @ 43, Qwilfish-1 @ 26, Duskull @ 25, Dusclops @ 25, Honchkrow @ 43, Spiritomb @ 34, Dusknoir @ 25, Darkrai @ 27, Samurott-1 @ 40, Overqwil @ 26
+Night Slash:
+	Level Up: Murkrow @ 25, Kricketune @ 21, Honchkrow @ 25, Glameow @ 23, Purugly @ 23, Stunky @ 25, Skuntank @ 25, Weavile @ 38, Samurott-1 @ 0
+Aqua Tail:
+	Tutors: Psyduck, Golduck, Lickitung, Rhyhorn, Rhydon, Gyarados, Vaporeon, Gligar, Steelix, Mantine, Barboach, Whiscash, Spheal, Sealeo, Walrein, Bidoof, Bibarel, Buizel, Floatzel, Garchomp, Skorupi, Drapion, Finneon, Lumineon, Lickilicky, Rhyperior, Glaceon, Gliscor, Palkia, Giratina, Arceus, Oshawott, Dewott, Basculegion, Overqwil, Qwilfish-1, Palkia-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Basculin-2, Basculegion-1
+	Level Up: Psyduck @ 34, Golduck @ 34, Gyarados @ 29, Vaporeon @ 25, Qwilfish-1 @ 37, Barboach @ 34, Whiscash @ 34, Bibarel @ 23, Buizel @ 34, Floatzel @ 34, Palkia @ 47, Palkia-1 @ 47, Oshawott @ 34, Dewott @ 34, Samurott-1 @ 34, Overqwil @ 37
+Seed Bomb:
+	Level Up: None.
+Air Slash:
+	Level Up: Zubat @ 34, Golbat @ 34, Scyther @ 18, Crobat @ 34, Togetic @ 25, Yanma @ 25, Murkrow @ 30, Scizor @ 18, Mantine @ 21, Beautifly @ 34, Starly @ 15, Staravia @ 15, Staraptor @ 15, Mothim @ 25, Mothim-1 @ 25, Mothim-2 @ 25, Vespiquen @ 29, Honchkrow @ 30, Chatot @ 25, Finneon @ 25, Lumineon @ 25, Mantyke @ 21, Togekiss @ 25, Yanmega @ 25, Shaymin @ 19, Shaymin-1 @ 19, Rufflet @ 20, Braviary-1 @ 20, Rowlet @ 25, Dartrix @ 25, Decidueye-1 @ 25, Kleavor @ 18, Kleavor-1 @ 18
+X-Scissor:
+	Tutors: Paras, Parasect, Scyther, Crobat, Gligar, Scizor, Sneasel, Kricketune, Vespiquen, Skorupi, Drapion, Croagunk, Toxicroak, Weavile, Leafeon, Gliscor, Gallade, Darkrai, Arceus, Oshawott, Dewott, Kleavor, Sneasler, Sneasel-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Kleavor-1
+	Level Up: Paras @ 37, Parasect @ 37, Scyther @ 34, Gligar @ 43, Scizor @ 34, Kricketune @ 29, Skorupi @ 34, Drapion @ 34, Gliscor @ 43, Kleavor @ 34, Kleavor-1 @ 34
+Bug Buzz:
+	Level Up: Yanma @ 43, Beautifly @ 43, Dustox @ 43, Kricketune @ 47, Wormadam @ 43, Wormadam-1 @ 43, Wormadam-2 @ 43, Mothim @ 43, Mothim-1 @ 43, Mothim-2 @ 43, Vespiquen @ 43, Yanmega @ 43
+Dragon Pulse:
+	Level Up: Lucario @ 40, Dialga @ 36, Dialga-1 @ 36, Palkia @ 36, Palkia-1 @ 36, Giratina @ 42, Giratina-1 @ 42, Goomy @ 25, Sliggoo-1 @ 25, Goodra-1 @ 25
+Dragon Rush:
+	Level Up: None.
+Power Gem:
+	Level Up: Misdreavus @ 34, Nosepass @ 34, Vespiquen @ 34, Mismagius @ 34, Probopass @ 34, Dialga @ 27, Dialga-1 @ 27, Palkia @ 27, Palkia-1 @ 27
+Drain Punch:
+	Tutors: Clefairy, Clefable, Abra, Kadabra, Alakazam, Machamp, Gengar, Chansey, Mr. Mime, Togetic, Blissey, Infernape, Buneary, Lopunny, Mime Jr., Happiny, Riolu, Lucario, Croagunk, Toxicroak, Togekiss, Gallade, Uxie, Mesprit, Azelf, Regigigas, Darkrai, Sneasler, Typhlosion-1, Sneasel-1, Lilligant-1, Lilligant-2
+	Level Up: Machamp @ 30, Lilligant-1 @ 34, Lilligant-2 @ 34
+Vacuum Wave:
+	Level Up: None.
+Focus Blast:
+	Level Up: None.
+Energy Ball:
+	Tutors: Vulpix, Ninetales, Paras, Parasect, Abra, Kadabra, Alakazam, Gastly, Haunter, Gengar, Tangela, Mr. Mime, Octillery, Stantler, Beautifly, Dustox, Gardevoir, Roselia, Chimecho, Turtwig, Grotle, Torterra, Budew, Roserade, Wormadam, Mothim, Cherubi, Cherrim, Mismagius, Chingling, Carnivine, Snover, Abomasnow, Tangrowth, Leafeon, Gallade, Uxie, Mesprit, Azelf, Giratina, Cresselia, Manaphy, Shaymin, Arceus, Petilil, Dartrix, Wyrdeer, Vulpix-1, Ninetales-1, Voltorb-1, Electrode-1, Electrode-2, Mothim-1, Mothim-2, Cherrim-1, Giratina-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Lilligant-1, Lilligant-2, Decidueye-1
+	Level Up: Paras @ 47, Parasect @ 47, Voltorb-1 @ 21, Electrode-1 @ 21, Electrode-2 @ 21, Tangela @ 25, Roselia @ 43, Budew @ 43, Roserade @ 43, Wormadam @ 25, Cherubi @ 21, Cherrim @ 21, Cherrim-1 @ 21, Carnivine @ 43, Snover @ 25, Abomasnow @ 25, Tangrowth @ 25, Shaymin @ 36, Shaymin-1 @ 36, Petilil @ 21, Lilligant-1 @ 21, Lilligant-2 @ 21
+Brave Bird:
+	Level Up: Starly @ 37, Staravia @ 37, Staraptor @ 37, Honchkrow @ 52, Rufflet @ 43, Braviary-1 @ 43, Decidueye-1 @ 40
+Earth Power:
+	Tutors: Geodude, Graveler, Golem, Onix, Rhyhorn, Rhydon, Sudowoodo, Gligar, Steelix, Swinub, Piloswine, Nosepass, Barboach, Whiscash, Turtwig, Grotle, Torterra, Cranidos, Rampardos, Shieldon, Bastiodon, Shellos, Gastrodon, Bonsly, Gible, Gabite, Garchomp, Hippopotas, Hippowdon, Croagunk, Toxicroak, Abomasnow, Rhyperior, Gliscor, Mamoswine, Probopass, Dialga, Palkia, Heatran, Regigigas, Giratina, Shaymin, Arceus, Landorus, Ursaluna, Enamorus, Wormadam-1, Shellos-1, Gastrodon-1, Dialga-1, Palkia-1, Giratina-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Landorus-1, Avalugg-1, Avalugg-2, Enamorus-1
+	Level Up: Nosepass @ 43, Barboach @ 43, Whiscash @ 43, Shieldon @ 29, Bastiodon @ 29, Wormadam-1 @ 25, Shellos @ 29, Shellos-1 @ 29, Gastrodon @ 29, Gastrodon-1 @ 29, Gible @ 29, Gabite @ 29, Garchomp @ 29, Croagunk @ 37, Toxicroak @ 37, Gliscor @ 52, Probopass @ 43, Dialga @ 42, Dialga-1 @ 42, Palkia @ 42, Palkia-1 @ 42, Heatran @ 46, Giratina @ 55, Giratina-1 @ 55, Shaymin @ 46, Shaymin-1 @ 46, Landorus @ 47, Landorus-1 @ 47, Avalugg-1 @ 29, Avalugg-2 @ 29
+Switcheroo:
+	Level Up: None.
+Giga Impact:
+	Tutors: Raichu, Clefable, Ninetales, Golbat, Parasect, Golduck, Alakazam, Machamp, Tentacruel, Golem, Rapidash, Magneton, Gengar, Lickitung, Rhyhorn, Rhydon, Chansey, Tangela, Mr. Mime, Scyther, Electabuzz, Magmar, Gyarados, Vaporeon, Jolteon, Flareon, Porygon, Snorlax, Crobat, Togetic, Espeon, Umbreon, Steelix, Scizor, Heracross, Ursaring, Piloswine, Octillery, Mantine, Porygon2, Stantler, Blissey, Beautifly, Dustox, Gardevoir, Whiscash, Dusclops, Glalie, Walrein, Torterra, Infernape, Empoleon, Starly, Staravia, Staraptor, Bibarel, Kricketune, Luxray, Roserade, Rampardos, Bastiodon, Wormadam, Mothim, Vespiquen, Floatzel, Cherrim, Gastrodon, Ambipom, Drifblim, Lopunny, Mismagius, Honchkrow, Purugly, Skuntank, Bronzong, Spiritomb, Garchomp, Munchlax, Lucario, Hippowdon, Drapion, Toxicroak, Carnivine, Lumineon, Abomasnow, Weavile, Magnezone, Lickilicky, Rhyperior, Tangrowth, Electivire, Magmortar, Togekiss, Yanmega, Leafeon, Glaceon, Gliscor, Mamoswine, Porygon-Z, Gallade, Probopass, Dusknoir, Froslass, Uxie, Mesprit, Azelf, Dialga, Palkia, Heatran, Regigigas, Giratina, Cresselia, Manaphy, Darkrai, Shaymin, Arceus, Tornadus, Thundurus, Landorus, Sylveon, Wyrdeer, Kleavor, Ursaluna, Basculegion, Sneasler, Overqwil, Enamorus, Ninetales-1, Arcanine-1, Arcanine-2, Electrode-1, Electrode-2, Typhlosion-1, Wormadam-1, Wormadam-2, Mothim-1, Mothim-2, Cherrim-1, Gastrodon-1, Dialga-1, Palkia-1, Giratina-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Samurott-1, Lilligant-1, Lilligant-2, Zoroark-1, Braviary-1, Tornadus-1, Thundurus-1, Landorus-1, Goodra-1, Avalugg-1, Avalugg-2, Decidueye-1, Kleavor-1, Basculegion-1, Enamorus-1
+	Level Up: Lickitung @ 43, Rhyhorn @ 52, Rhydon @ 52, Snorlax @ 57, Starly @ 47, Staravia @ 47, Staraptor @ 47, Munchlax @ 57, Lickilicky @ 43, Rhyperior @ 52, Regigigas @ 57
+Nasty Plot:
+	Level Up: Vulpix @ 9, Vulpix-1 @ 9, Ninetales @ 9, Ninetales-1 @ 9, Aipom @ 6, Murkrow @ 34, Chimchar @ 25, Monferno @ 25, Infernape @ 25, Ambipom @ 6, Honchkrow @ 34, Glameow @ 10, Purugly @ 10, Chatot @ 34, Spiritomb @ 18, Croagunk @ 21, Toxicroak @ 21, Azelf @ 36, Darkrai @ 19, Zorua-1 @ 43, Zoroark-1 @ 43, Tornadus @ 22, Tornadus-1 @ 22, Thundurus @ 22, Thundurus-1 @ 22
+Bullet Punch:
+	Level Up: Machop @ 11, Machoke @ 11, Machamp @ 11, Scizor @ 29, Riolu @ 5, Lucario @ 5
+Avalanche:
+	Level Up: None.
+Ice Shard:
+	Level Up: Sneasel @ 6, Swinub @ 6, Piloswine @ 6, Snorunt @ 6, Glalie @ 6, Snover @ 11, Abomasnow @ 11, Weavile @ 6, Mamoswine @ 6, Froslass @ 6, Bergmite @ 9, Avalugg-1 @ 9, Avalugg-2 @ 9
+Shadow Claw:
+	Tutors: Psyduck, Golduck, Haunter, Gengar, Rhydon, Aipom, Heracross, Sneasel, Teddiursa, Ursaring, Chimchar, Monferno, Infernape, Prinplup, Empoleon, Ambipom, Glameow, Purugly, Stunky, Skuntank, Gabite, Garchomp, Riolu, Lucario, Weavile, Rhyperior, Dialga, Palkia, Giratina, Darkrai, Arceus, Rufflet, Rowlet, Dartrix, Ursaluna, Sneasler, Typhlosion-1, Sneasel-1, Dialga-1, Palkia-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Zorua-1, Zoroark-1, Braviary-1, Decidueye-1
+	Level Up: Giratina @ 19, Giratina-1 @ 19, Zorua-1 @ 34, Zoroark-1 @ 34
+Thunder Fang:
+	Tutors: Rhyhorn, Rhydon, Jolteon, Steelix, Shinx, Luxio, Luxray, Hippowdon, Drapion, Rhyperior, Gliscor, Arcanine-1, Arcanine-2
+	Level Up: Shinx @ 15, Luxio @ 15, Luxray @ 15
+Ice Fang:
+	Tutors: Rhyhorn, Rhydon, Gyarados, Steelix, Piloswine, Snorunt, Glalie, Walrein, Shinx, Luxio, Luxray, Floatzel, Hippowdon, Drapion, Rhyperior, Glaceon, Gliscor, Mamoswine, Froslass, Bergmite, Basculegion, Vulpix-1, Ninetales-1, Basculin-2, Avalugg-1, Avalugg-2, Basculegion-1
+	Level Up: Vulpix-1 @ 21, Ninetales-1 @ 21, Snorunt @ 18, Glalie @ 18, Froslass @ 18
+Fire Fang:
+	Tutors: Rhyhorn, Rhydon, Flareon, Steelix, Shinx, Luxio, Luxray, Garchomp, Hippowdon, Drapion, Rhyperior, Gliscor, Heatran, Growlithe-1, Arcanine-1, Arcanine-2
+	Level Up: Growlithe-1 @ 15, Arcanine-1 @ 15, Arcanine-2 @ 15, Heatran @ 19
+Shadow Sneak:
+	Level Up: Misdreavus @ 1, Duskull @ 6, Dusclops @ 6, Mismagius @ 1, Spiritomb @ 1, Dusknoir @ 6, Giratina @ 1, Giratina-1 @ 1, Darkrai @ 1, Zorua-1 @ 1, Zoroark-1 @ 1
+Mud Bomb:
+	Level Up: Aipom @ 18, Gligar @ 18, Barboach @ 11, Whiscash @ 11, Shellos @ 21, Shellos-1 @ 21, Gastrodon @ 21, Gastrodon-1 @ 21, Ambipom @ 18, Hippopotas @ 18, Hippowdon @ 18, Croagunk @ 9, Toxicroak @ 9, Gliscor @ 18
+Psycho Cut:
+	Tutors: Kadabra, Alakazam, Scyther, Scizor, Sneasel, Weavile, Gallade, Uxie, Mesprit, Azelf, Cresselia, Rowlet, Dartrix, Kleavor, Samurott-1, Decidueye-1, Kleavor-1
+	Level Up: Kadabra @ 18, Alakazam @ 18, Gallade @ 18, Cresselia @ 19
+Zen Headbutt:
+	Tutors: Clefairy, Clefable, Vulpix, Ninetales, Zubat, Golbat, Psyduck, Golduck, Abra, Kadabra, Alakazam, Lickitung, Chansey, Mr. Mime, Porygon, Snorlax, Crobat, Cleffa, Togepi, Togetic, Espeon, Porygon2, Stantler, Blissey, Ralts, Kirlia, Gardevoir, Barboach, Whiscash, Chimecho, Cranidos, Rampardos, Chingling, Bronzong, Mime Jr., Happiny, Munchlax, Riolu, Lucario, Lickilicky, Togekiss, Porygon-Z, Gallade, Uxie, Mesprit, Azelf, Regigigas, Cresselia, Phione, Manaphy, Shaymin, Arceus, Rufflet, Wyrdeer, Basculegion, Enamorus, Vulpix-1, Ninetales-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Basculin-2, Braviary-1, Basculegion-1, Enamorus-1
+	Level Up: Psyduck @ 25, Golduck @ 25, Kadabra @ 25, Alakazam @ 25, Lickitung @ 18, Mr. Mime @ 18, Snorlax @ 29, Stantler @ 37, Barboach @ 25, Whiscash @ 25, Mime Jr. @ 18, Munchlax @ 29, Lickilicky @ 18, Regigigas @ 27, Phione @ 27, Manaphy @ 27, Basculin-2 @ 18, Wyrdeer @ 37, Basculegion @ 18, Basculegion-1 @ 18
+Mirror Shot:
+	Level Up: None.
+Flash Cannon:
+	Tutors: Magnemite, Magneton, Onix, Steelix, Scizor, Octillery, Nosepass, Empoleon, Shieldon, Bastiodon, Bronzor, Bronzong, Lucario, Magnezone, Rhyperior, Probopass, Dialga, Heatran, Arceus, Thundurus, Bergmite, Wormadam-2, Dialga-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Thundurus-1, Avalugg-1, Avalugg-2
+	Level Up: Magnemite @ 25, Magneton @ 25, Empoleon @ 0, Bronzor @ 34, Bronzong @ 34, Magnezone @ 25, Probopass @ 38, Dialga @ 55, Dialga-1 @ 55
+Rock Climb:
+	Level Up: None.
+Defog:
+	Level Up: None.
+Trick Room:
+	Level Up: None.
+Draco Meteor:
+	Tutors: Gible, Gabite, Garchomp, Dialga, Palkia, Giratina, Arceus, Goomy, Dialga-1, Palkia-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Sliggoo-1, Goodra-1
+	Level Up: None.
+Discharge:
+	Level Up: None.
+Lava Plume:
+	Level Up: None.
+Leaf Storm:
+	Level Up: Petilil @ 47, Lilligant-1 @ 47, Lilligant-2 @ 47, Rowlet @ 43, Dartrix @ 43, Decidueye-1 @ 43
+Power Whip:
+	Level Up: None.
+Rock Wrecker:
+	Level Up: None.
+Cross Poison:
+	Level Up: Zubat @ 25, Golbat @ 25, Crobat @ 25, Skorupi @ 18, Drapion @ 18
+Gunk Shot:
+	Level Up: None.
+Iron Head:
+	Tutors: Golem, Onix, Gyarados, Snorlax, Steelix, Scizor, Mantine, Glalie, Walrein, Torterra, Cranidos, Rampardos, Shieldon, Bastiodon, Bronzong, Gible, Gabite, Garchomp, Hippowdon, Magnezone, Rhyperior, Mamoswine, Probopass, Dialga, Heatran, Regigigas, Giratina, Arceus, Arcanine-1, Arcanine-2, Wormadam-2, Dialga-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Sliggoo-1, Goodra-1, Avalugg-1, Avalugg-2
+	Level Up: Scizor @ 34, Cranidos @ 21, Rampardos @ 21, Shieldon @ 21, Bastiodon @ 21, Wormadam-2 @ 25, Heatran @ 27, Regigigas @ 36, Sliggoo-1 @ 25, Goodra-1 @ 25
+Magnet Bomb:
+	Level Up: None.
+Stone Edge:
+	Tutors: Machamp, Geodude, Graveler, Golem, Onix, Rhyhorn, Rhydon, Gyarados, Sudowoodo, Gligar, Steelix, Heracross, Ursaring, Piloswine, Nosepass, Whiscash, Torterra, Infernape, Cranidos, Rampardos, Shieldon, Bastiodon, Gastrodon, Gible, Gabite, Garchomp, Lucario, Hippowdon, Toxicroak, Rhyperior, Gliscor, Mamoswine, Gallade, Probopass, Dialga, Palkia, Heatran, Regigigas, Giratina, Arceus, Landorus, Bergmite, Kleavor, Ursaluna, Arcanine-1, Arcanine-2, Gastrodon-1, Dialga-1, Palkia-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Landorus-1, Avalugg-1, Avalugg-2, Kleavor-1
+	Level Up: Golem @ 57
+Captivate:
+	Level Up: None.
+Stealth Rock:
+	Tutors: Clefairy, Clefable, Geodude, Graveler, Golem, Onix, Rhyhorn, Rhydon, Chansey, Sudowoodo, Gligar, Steelix, Swinub, Piloswine, Blissey, Nosepass, Turtwig, Grotle, Torterra, Chimchar, Monferno, Infernape, Piplup, Prinplup, Empoleon, Bidoof, Bibarel, Cranidos, Rampardos, Shieldon, Bastiodon, Bronzor, Bronzong, Bonsly, Gible, Gabite, Garchomp, Hippopotas, Hippowdon, Rhyperior, Gliscor, Mamoswine, Probopass, Uxie, Mesprit, Azelf, Dialga, Heatran, Arceus, Landorus, Kleavor, Wormadam-1, Wormadam-2, Dialga-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Landorus-1, Avalugg-1, Avalugg-2, Kleavor-1
+	Level Up: Geodude @ 29, Graveler @ 29, Golem @ 29, Onix @ 25, Rhyhorn @ 18, Rhydon @ 18, Sudowoodo @ 9, Steelix @ 25, Shieldon @ 37, Bastiodon @ 37, Bonsly @ 9, Rhyperior @ 18, Kleavor @ 14, Kleavor-1 @ 14
+Grass Knot:
+	Level Up: None.
+Chatter:
+	Level Up: None.
+Judgment:
+	Level Up: Arceus @ 46, Arceus-1 @ 46, Arceus-2 @ 46, Arceus-3 @ 46, Arceus-4 @ 46, Arceus-5 @ 46, Arceus-6 @ 46, Arceus-7 @ 46, Arceus-8 @ 46, Arceus-9 @ 46, Arceus-10 @ 46, Arceus-11 @ 46, Arceus-12 @ 46, Arceus-13 @ 46, Arceus-14 @ 46, Arceus-15 @ 46, Arceus-16 @ 46, Arceus-17 @ 46, Arceus-18 @ 46
+Bug Bite:
+	Level Up: None.
+Charge Beam:
+	Tutors: Pikachu, Raichu, Clefairy, Clefable, Abra, Kadabra, Alakazam, Magnemite, Magneton, Chansey, Mr. Mime, Electabuzz, Jolteon, Pichu, Misdreavus, Remoraid, Octillery, Porygon2, Stantler, Elekid, Blissey, Ralts, Kirlia, Gardevoir, Duskull, Dusclops, Chimecho, Bidoof, Bibarel, Shinx, Luxio, Luxray, Pachirisu, Drifloon, Drifblim, Buneary, Lopunny, Mismagius, Chingling, Bronzor, Bronzong, Mime Jr., Magnezone, Electivire, Porygon-Z, Gallade, Dusknoir, Rotom, Uxie, Mesprit, Azelf, Giratina, Cresselia, Darkrai, Arceus, Thundurus, Wyrdeer, Voltorb-1, Electrode-1, Electrode-2, Rotom-1, Rotom-2, Rotom-3, Rotom-4, Rotom-5, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Thundurus-1
+	Level Up: Remoraid @ 11, Octillery @ 11, Rotom @ 6, Rotom-1 @ 6, Rotom-2 @ 6, Rotom-3 @ 6, Rotom-4 @ 6, Rotom-5 @ 6
+Wood Hammer:
+	Level Up: Sudowoodo @ 57, Torterra @ 52, Snover @ 43, Abomasnow @ 43
+Aqua Jet:
+	Level Up: Buizel @ 6, Floatzel @ 6, Oshawott @ 6, Dewott @ 6, Samurott-1 @ 6, Basculin-2 @ 6, Basculegion @ 6, Basculegion-1 @ 6
+Attack Order:
+	Level Up: None.
+Defend Order:
+	Level Up: None.
+Heal Order:
+	Level Up: None.
+Head Smash:
+	Level Up: Sudowoodo @ 47, Cranidos @ 47, Rampardos @ 47, Bonsly @ 47
+Double Hit:
+	Level Up: Machop @ 18, Machoke @ 18, Machamp @ 18, Ponyta @ 9, Rapidash @ 9, Tangela @ 18, Scyther @ 14, Aipom @ 25, Scizor @ 14, Buizel @ 25, Floatzel @ 25, Ambipom @ 25, Buneary @ 23, Lopunny @ 23, Tangrowth @ 18, Uxie @ 12, Mesprit @ 12, Azelf @ 12, Kleavor @ 14, Kleavor-1 @ 14
+Roar of Time:
+	Level Up: Dialga @ 60, Dialga-1 @ 60
+Spacial Rend:
+	Level Up: Palkia @ 60, Palkia-1 @ 60
+Lunar Dance:
+	Level Up: None.
+Crush Grip:
+	Level Up: Regigigas @ 46
+Magma Storm:
+	Level Up: Heatran @ 57
+Dark Void:
+	Level Up: Darkrai @ 57
+Seed Flare:
+	Level Up: Shaymin @ 57, Shaymin-1 @ 57
+Ominous Wind:
+	Tutors: Vulpix, Ninetales, Zubat, Golbat, Gastly, Haunter, Gengar, Scyther, Crobat, Togetic, Yanma, Murkrow, Misdreavus, Scizor, Beautifly, Dustox, Duskull, Dusclops, Chimecho, Starly, Staravia, Staraptor, Mothim, Combee, Vespiquen, Drifloon, Drifblim, Mismagius, Honchkrow, Chingling, Chatot, Spiritomb, Finneon, Lumineon, Togekiss, Yanmega, Dusknoir, Froslass, Rotom, Giratina, Darkrai, Shaymin, Arceus, Rufflet, Kleavor, Basculegion, Typhlosion-1, Mothim-1, Mothim-2, Rotom-1, Rotom-2, Rotom-3, Rotom-4, Rotom-5, Giratina-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Zoroark-1, Braviary-1, Kleavor-1, Basculegion-1
+	Level Up: Chimecho @ 11, Chingling @ 11
+Shadow Force:
+	Level Up: Giratina @ 60, Giratina-1 @ 60
+Hone Claws:
+	Level Up: None.
+Wide Guard:
+	Level Up: None.
+Guard Split:
+	Level Up: None.
+Power Split:
+	Level Up: None.
+Wonder Room:
+	Level Up: None.
+Psyshock:
+	Level Up: None.
+Venoshock:
+	Level Up: Paras @ 15, Parasect @ 15, Gastly @ 18, Haunter @ 18, Gengar @ 18, Beautifly @ 25, Dustox @ 25, Roselia @ 25, Budew @ 25, Roserade @ 25, Stunky @ 18, Skuntank @ 18, Skorupi @ 11, Drapion @ 11, Croagunk @ 15, Toxicroak @ 15
+Autotomize:
+	Level Up: None.
+Rage Powder:
+	Level Up: None.
+Telekinesis:
+	Level Up: None.
+Magic Room:
+	Level Up: None.
+Smack Down:
+	Level Up: None.
+Storm Throw:
+	Level Up: None.
+Flame Burst:
+	Level Up: None.
+Sludge Wave:
+	Level Up: None.
+Quiver Dance:
+	Level Up: None.
+Heavy Slam:
+	Level Up: None.
+Synchronoise:
+	Level Up: None.
+Electro Ball:
+	Level Up: None.
+Soak:
+	Level Up: None.
+Flame Charge:
+	Level Up: None.
+Coil:
+	Level Up: None.
+Low Sweep:
+	Level Up: None.
+Acid Spray:
+	Level Up: Tangela @ 15, Remoraid @ 6, Octillery @ 6, Stunky @ 6, Skuntank @ 6, Carnivine @ 6, Tangrowth @ 15, Goomy @ 6, Sliggoo-1 @ 6, Goodra-1 @ 6
+Foul Play:
+	Level Up: None.
+Simple Beam:
+	Level Up: None.
+Entrainment:
+	Level Up: None.
+After You:
+	Level Up: None.
+Round:
+	Level Up: None.
+Echoed Voice:
+	Level Up: None.
+Chip Away:
+	Level Up: None.
+Clear Smog:
+	Level Up: None.
+Stored Power:
+	Level Up: None.
+Quick Guard:
+	Level Up: None.
+Ally Switch:
+	Level Up: None.
+Scald:
+	Level Up: None.
+Shell Smash:
+	Level Up: None.
+Heal Pulse:
+	Level Up: None.
+Hex:
+	Level Up: Vulpix @ 21, Ninetales @ 21, Tentacool @ 18, Tentacruel @ 18, Gastly @ 11, Haunter @ 11, Gengar @ 11, Typhlosion-1 @ 0, Misdreavus @ 18, Duskull @ 11, Dusclops @ 11, Drifloon @ 21, Drifblim @ 21, Mismagius @ 18, Bronzor @ 18, Bronzong @ 18, Spiritomb @ 11, Dusknoir @ 11, Froslass @ 18, Rotom @ 11, Rotom-1 @ 11, Rotom-2 @ 11, Rotom-3 @ 11, Rotom-4 @ 11, Rotom-5 @ 11, Giratina @ 12, Giratina-1 @ 12, Darkrai @ 12, Basculegion @ 11, Basculegion-1 @ 11
+Sky Drop:
+	Level Up: None.
+Shift Gear:
+	Level Up: None.
+Circle Throw:
+	Level Up: None.
+Incinerate:
+	Level Up: None.
+Quash:
+	Level Up: None.
+Acrobatics:
+	Level Up: None.
+Reflect Type:
+	Level Up: None.
+Retaliate:
+	Level Up: None.
+Final Gambit:
+	Level Up: None.
+Bestow:
+	Level Up: None.
+Inferno:
+	Level Up: None.
+Water Pledge:
+	Level Up: None.
+Fire Pledge:
+	Level Up: None.
+Grass Pledge:
+	Level Up: None.
+Volt Switch:
+	Level Up: None.
+Struggle Bug:
+	Level Up: Burmy @ 1, Burmy-1 @ 1, Burmy-2 @ 1, Wormadam @ 1, Wormadam-1 @ 1, Wormadam-2 @ 1, Mothim @ 1, Mothim-1 @ 1, Mothim-2 @ 1, Combee @ 6, Vespiquen @ 6
+Bulldoze:
+	Tutors: Machop, Machoke, Machamp, Geodude, Graveler, Golem, Onix, Lickitung, Rhyhorn, Rhydon, Chansey, Gyarados, Snorlax, Sudowoodo, Gligar, Steelix, Heracross, Teddiursa, Ursaring, Swinub, Piloswine, Mantine, Stantler, Blissey, Nosepass, Barboach, Whiscash, Dusclops, Glalie, Spheal, Sealeo, Walrein, Turtwig, Grotle, Torterra, Infernape, Empoleon, Bibarel, Cranidos, Rampardos, Shieldon, Bastiodon, Gastrodon, Purugly, Bronzor, Bronzong, Gible, Gabite, Garchomp, Munchlax, Riolu, Lucario, Hippopotas, Hippowdon, Drapion, Croagunk, Toxicroak, Mantyke, Abomasnow, Lickilicky, Rhyperior, Tangrowth, Electivire, Magmortar, Gliscor, Mamoswine, Gallade, Probopass, Dusknoir, Dialga, Palkia, Heatran, Regigigas, Giratina, Arceus, Landorus, Wyrdeer, Ursaluna, Arcanine-1, Arcanine-2, Typhlosion-1, Wormadam-1, Gastrodon-1, Dialga-1, Palkia-1, Giratina-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Landorus-1, Goodra-1, Avalugg-1, Avalugg-2
+	Level Up: Geodude @ 26, Graveler @ 26, Golem @ 26, Onix @ 11, Lickitung @ 11, Rhyhorn @ 6, Rhydon @ 6, Snorlax @ 15, Steelix @ 11, Teddiursa @ 11, Ursaring @ 11, Swinub @ 11, Piloswine @ 11, Turtwig @ 18, Grotle @ 18, Torterra @ 18, Gible @ 9, Gabite @ 9, Garchomp @ 9, Munchlax @ 15, Lickilicky @ 11, Rhyperior @ 6, Mamoswine @ 11, Regigigas @ 12, Landorus @ 14, Landorus-1 @ 14, Ursaluna @ 11
+Frost Breath:
+	Level Up: None.
+Dragon Tail:
+	Level Up: None.
+Work Up:
+	Level Up: None.
+Electroweb:
+	Level Up: None.
+Wild Charge:
+	Tutors: Pikachu, Raichu, Ponyta, Rapidash, Magnemite, Magneton, Chansey, Electabuzz, Jolteon, Snorlax, Cyndaquil, Quilava, Pichu, Stantler, Elekid, Blissey, Shinx, Luxio, Luxray, Magnezone, Electivire, Thundurus, Wyrdeer, Growlithe-1, Arcanine-1, Arcanine-2, Voltorb-1, Electrode-1, Electrode-2, Typhlosion-1, Thundurus-1
+	Level Up: Shinx @ 37, Luxio @ 37, Luxray @ 37
+Drill Run:
+	Level Up: None.
+Dual Chop:
+	Level Up: None.
+Heart Stamp:
+	Level Up: None.
+Horn Leech:
+	Level Up: None.
+Sacred Sword:
+	Level Up: None.
+Razor Shell:
+	Level Up: None.
+Heat Crash:
+	Level Up: None.
+Leaf Tornado:
+	Level Up: None.
+Steamroller:
+	Level Up: None.
+Cotton Guard:
+	Level Up: None.
+Night Daze:
+	Level Up: None.
+Psystrike:
+	Level Up: None.
+Tail Slap:
+	Level Up: None.
+Hurricane:
+	Level Up: Gyarados @ 37, Chatot @ 52, Braviary-1 @ 52, Tornadus @ 47, Tornadus-1 @ 47
+Head Charge:
+	Level Up: None.
+Gear Grind:
+	Level Up: None.
+Searing Shot:
+	Level Up: None.
+Techno Blast:
+	Level Up: None.
+Relic Song:
+	Level Up: None.
+Secret Sword:
+	Level Up: None.
+Glaciate:
+	Level Up: None.
+Bolt Strike:
+	Level Up: None.
+Blue Flare:
+	Level Up: None.
+Fiery Dance:
+	Level Up: None.
+Freeze Shock:
+	Level Up: None.
+Ice Burn:
+	Level Up: None.
+Snarl:
+	Tutors: Umbreon, Murkrow, Sneasel, Shinx, Luxio, Luxray, Honchkrow, Stunky, Skuntank, Chatot, Spiritomb, Drapion, Weavile, Darkrai, Arceus, Sneasler, Growlithe-1, Arcanine-1, Arcanine-2, Sneasel-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Zorua-1, Zoroark-1
+	Level Up: Umbreon @ 0, Murkrow @ 6, Honchkrow @ 6, Zorua-1 @ 6, Zoroark-1 @ 6
+Icicle Crash:
+	Level Up: Swinub @ 18, Piloswine @ 18, Snorunt @ 34, Glalie @ 34, Snover @ 18, Abomasnow @ 18, Mamoswine @ 18, Froslass @ 34
+V-create:
+	Level Up: None.
+Fusion Flare:
+	Level Up: None.
+Fusion Bolt:
+	Level Up: None.
+Flying Press:
+	Level Up: None.
+Mat Block:
+	Level Up: None.
+Belch:
+	Level Up: None.
+Rototiller:
+	Level Up: None.
+Sticky Web:
+	Level Up: None.
+Fell Stinger:
+	Level Up: None.
+Phantom Force:
+	Level Up: None.
+Trick-or-Treat:
+	Level Up: None.
+Noble Roar:
+	Level Up: None.
+Ion Deluge:
+	Level Up: None.
+Parabolic Charge:
+	Level Up: None.
+Forest’s Curse:
+	Level Up: None.
+Petal Blizzard:
+	Level Up: None.
+Freeze-Dry:
+	Level Up: None.
+Disarming Voice:
+	Level Up: None.
+Parting Shot:
+	Level Up: None.
+Topsy-Turvy:
+	Level Up: None.
+Draining Kiss:
+	Level Up: Clefairy @ 15, Clefable @ 15, Vulpix-1 @ 15, Ninetales-1 @ 15, Chansey @ 18, Cleffa @ 15, Togepi @ 11, Togetic @ 11, Blissey @ 18, Ralts @ 11, Kirlia @ 11, Gardevoir @ 11, Cherubi @ 15, Cherrim @ 15, Cherrim-1 @ 15, Buneary @ 16, Lopunny @ 16, Happiny @ 18, Togekiss @ 11, Gallade @ 11, Enamorus @ 14, Enamorus-1 @ 14
+Crafty Shield:
+	Level Up: None.
+Flower Shield:
+	Level Up: None.
+Grassy Terrain:
+	Level Up: None.
+Misty Terrain:
+	Level Up: None.
+Electrify:
+	Level Up: None.
+Play Rough:
+	Tutors: Pikachu, Raichu, Clefairy, Clefable, Pichu, Cleffa, Togepi, Togetic, Teddiursa, Ursaring, Shinx, Luxio, Luxray, Pachirisu, Cherrim, Buneary, Lopunny, Glameow, Purugly, Stunky, Skuntank, Chatot, Togekiss, Uxie, Mesprit, Azelf, Shaymin, Sylveon, Ursaluna, Enamorus, Growlithe-1, Arcanine-1, Arcanine-2, Cherrim-1, Shaymin-1, Enamorus-1
+	Level Up: Teddiursa @ 25, Ursaring @ 25, Buneary @ 31, Lopunny @ 31, Glameow @ 31, Purugly @ 31, Chatot @ 43, Sylveon @ 25, Ursaluna @ 25
+Fairy Wind:
+	Level Up: Clefairy @ 5, Clefable @ 5, Chansey @ 6, Cleffa @ 5, Togepi @ 6, Togetic @ 6, Blissey @ 6, Happiny @ 6, Togekiss @ 6, Sylveon @ 0
+Moonblast:
+	Level Up: Clefairy @ 37, Clefable @ 37, Cleffa @ 37, Togepi @ 43, Togetic @ 43, Gardevoir @ 43, Togekiss @ 43, Cresselia @ 46, Phione @ 36, Manaphy @ 36, Enamorus @ 47, Enamorus-1 @ 47
+Boomburst:
+	Level Up: None.
+Fairy Lock:
+	Level Up: None.
+King’s Shield:
+	Level Up: None.
+Play Nice:
+	Level Up: None.
+Confide:
+	Level Up: None.
+Diamond Storm:
+	Level Up: None.
+Steam Eruption:
+	Level Up: None.
+Hyperspace Hole:
+	Level Up: None.
+Water Shuriken:
+	Level Up: None.
+Mystical Fire:
+	Tutors: Clefairy, Clefable, Vulpix, Ninetales, Ponyta, Rapidash, Mr. Mime, Flareon, Togepi, Togetic, Gardevoir, Drifloon, Drifblim, Mismagius, Magmortar, Togekiss, Arceus, Sylveon, Enamorus, Typhlosion-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Braviary-1, Enamorus-1
+	Level Up: Drifloon @ 25, Drifblim @ 25
+Spiky Shield:
+	Level Up: None.
+Aromatic Mist:
+	Level Up: None.
+Eerie Impulse:
+	Level Up: None.
+Venom Drench:
+	Level Up: None.
+Powder:
+	Level Up: None.
+Geomancy:
+	Level Up: None.
+Magnetic Flux:
+	Level Up: None.
+Happy Hour:
+	Level Up: None.
+Electric Terrain:
+	Level Up: None.
+Dazzling Gleam:
+	Tutors: Clefairy, Clefable, Abra, Kadabra, Alakazam, Tentacool, Tentacruel, Gastly, Haunter, Gengar, Chansey, Mr. Mime, Togepi, Togetic, Espeon, Misdreavus, Blissey, Ralts, Kirlia, Gardevoir, Roselia, Chimecho, Budew, Roserade, Cherubi, Cherrim, Mismagius, Chingling, Mime Jr., Togekiss, Gallade, Uxie, Mesprit, Azelf, Phione, Manaphy, Shaymin, Arceus, Sylveon, Enamorus, Vulpix-1, Ninetales-1, Cherrim-1, Shaymin-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Braviary-1, Enamorus-1
+	Level Up: Vulpix-1 @ 29, Ninetales-1 @ 29, Mr. Mime @ 46, Gardevoir @ 0
+Celebrate:
+	Level Up: None.
+Hold Hands:
+	Level Up: None.
+Baby-Doll Eyes:
+	Tutors: Pikachu, Raichu, Clefairy, Clefable, Vulpix, Ninetales, Chansey, Eevee, Vaporeon, Jolteon, Flareon, Pichu, Cleffa, Togepi, Togetic, Espeon, Umbreon, Teddiursa, Ursaring, Swinub, Piloswine, Blissey, Spheal, Sealeo, Walrein, Piplup, Prinplup, Empoleon, Shinx, Luxio, Luxray, Pachirisu, Buneary, Lopunny, Happiny, Finneon, Lumineon, Togekiss, Leafeon, Glaceon, Mamoswine, Shaymin, Petilil, Sylveon, Ursaluna, Vulpix-1, Ninetales-1, Shaymin-1, Lilligant-1, Lilligant-2
+	Level Up: Clefairy @ 9, Clefable @ 9, Chansey @ 11, Eevee @ 18, Vaporeon @ 18, Jolteon @ 18, Flareon @ 18, Cleffa @ 9, Togepi @ 25, Togetic @ 25, Espeon @ 18, Umbreon @ 18, Teddiursa @ 6, Ursaring @ 6, Blissey @ 11, Pachirisu @ 21, Buneary @ 5, Lopunny @ 5, Happiny @ 11, Togekiss @ 25, Leafeon @ 18, Glaceon @ 18, Sylveon @ 18, Ursaluna @ 6
+Nuzzle:
+	Level Up: None.
+Hold Back:
+	Level Up: None.
+Infestation:
+	Level Up: None.
+Power-Up Punch:
+	Level Up: None.
+Oblivion Wing:
+	Level Up: None.
+Thousand Arrows:
+	Level Up: None.
+Thousand Waves:
+	Level Up: None.
+Land’s Wrath:
+	Level Up: None.
+Light of Ruin:
+	Level Up: None.
+Origin Pulse:
+	Level Up: None.
+Precipice Blades:
+	Level Up: None.
+Dragon Ascent:
+	Level Up: None.
+Hyperspace Fury:
+	Level Up: None.
+Breakneck Blitz:
+	Level Up: None.
+Breakneck Blitz:
+	Level Up: None.
+All-Out Pummeling:
+	Level Up: None.
+All-Out Pummeling:
+	Level Up: None.
+Supersonic Skystrike:
+	Level Up: None.
+Supersonic Skystrike:
+	Level Up: None.
+Acid Downpour:
+	Level Up: None.
+Acid Downpour:
+	Level Up: None.
+Tectonic Rage:
+	Level Up: None.
+Tectonic Rage:
+	Level Up: None.
+Continental Crush:
+	Level Up: None.
+Continental Crush:
+	Level Up: None.
+Savage Spin-Out:
+	Level Up: None.
+Savage Spin-Out:
+	Level Up: None.
+Never-Ending Nightmare:
+	Level Up: None.
+Never-Ending Nightmare:
+	Level Up: None.
+Corkscrew Crash:
+	Level Up: None.
+Corkscrew Crash:
+	Level Up: None.
+Inferno Overdrive:
+	Level Up: None.
+Inferno Overdrive:
+	Level Up: None.
+Hydro Vortex:
+	Level Up: None.
+Hydro Vortex:
+	Level Up: None.
+Bloom Doom:
+	Level Up: None.
+Bloom Doom:
+	Level Up: None.
+Gigavolt Havoc:
+	Level Up: None.
+Gigavolt Havoc:
+	Level Up: None.
+Shattered Psyche:
+	Level Up: None.
+Shattered Psyche:
+	Level Up: None.
+Subzero Slammer:
+	Level Up: None.
+Subzero Slammer:
+	Level Up: None.
+Devastating Drake:
+	Level Up: None.
+Devastating Drake:
+	Level Up: None.
+Black Hole Eclipse:
+	Level Up: None.
+Black Hole Eclipse:
+	Level Up: None.
+Twinkle Tackle:
+	Level Up: None.
+Twinkle Tackle:
+	Level Up: None.
+Catastropika:
+	Level Up: None.
+Shore Up:
+	Level Up: None.
+First Impression:
+	Level Up: None.
+Baneful Bunker:
+	Level Up: None.
+Spirit Shackle:
+	Level Up: None.
+Darkest Lariat:
+	Level Up: None.
+Sparkling Aria:
+	Level Up: None.
+Ice Hammer:
+	Level Up: None.
+Floral Healing:
+	Level Up: None.
+High Horsepower:
+	Tutors: Machamp, Ponyta, Rapidash, Onix, Rhyhorn, Rhydon, Snorlax, Steelix, Heracross, Teddiursa, Ursaring, Swinub, Piloswine, Munchlax, Hippopotas, Hippowdon, Rhyperior, Mamoswine, Regigigas, Wyrdeer, Ursaluna, Avalugg-1, Avalugg-2
+	Level Up: Onix @ 34, Rhyhorn @ 34, Rhydon @ 34, Snorlax @ 37, Steelix @ 34, Teddiursa @ 34, Ursaring @ 34, Swinub @ 25, Piloswine @ 25, Munchlax @ 37, Hippopotas @ 34, Hippowdon @ 34, Rhyperior @ 34, Mamoswine @ 25, Ursaluna @ 34
+Strength Sap:
+	Level Up: None.
+Solar Blade:
+	Level Up: None.
+Leafage:
+	Level Up: Turtwig @ 6, Grotle @ 6, Torterra @ 6, Snover @ 6, Abomasnow @ 6, Leafeon @ 0, Shaymin @ 1, Shaymin-1 @ 1, Petilil @ 5, Lilligant-1 @ 5, Lilligant-2 @ 5, Rowlet @ 6, Dartrix @ 6, Decidueye-1 @ 6
+Spotlight:
+	Level Up: None.
+Toxic Thread:
+	Level Up: None.
+Laser Focus:
+	Level Up: None.
+Gear Up:
+	Level Up: None.
+Throat Chop:
+	Level Up: None.
+Pollen Puff:
+	Level Up: None.
+Anchor Shot:
+	Level Up: None.
+Psychic Terrain:
+	Level Up: None.
+Lunge:
+	Level Up: None.
+Fire Lash:
+	Level Up: None.
+Power Trip:
+	Level Up: None.
+Burn Up:
+	Level Up: None.
+Speed Swap:
+	Level Up: None.
+Smart Strike:
+	Level Up: None.
+Purify:
+	Level Up: None.
+Revelation Dance:
+	Level Up: None.
+Core Enforcer:
+	Level Up: None.
+Trop Kick:
+	Level Up: None.
+Instruct:
+	Level Up: None.
+Beak Blast:
+	Level Up: None.
+Clanging Scales:
+	Level Up: None.
+Dragon Hammer:
+	Level Up: None.
+Brutal Swing:
+	Level Up: None.
+Aurora Veil:
+	Level Up: None.
+Sinister Arrow Raid:
+	Level Up: None.
+Malicious Moonsault:
+	Level Up: None.
+Oceanic Operetta:
+	Level Up: None.
+Guardian of Alola:
+	Level Up: None.
+Soul-Stealing 7-Star Strike:
+	Level Up: None.
+Stoked Sparksurfer:
+	Level Up: None.
+Pulverizing Pancake:
+	Level Up: None.
+Extreme Evoboost:
+	Level Up: None.
+Genesis Supernova:
+	Level Up: None.
+Shell Trap:
+	Level Up: None.
+Fleur Cannon:
+	Level Up: None.
+Psychic Fangs:
+	Level Up: None.
+Stomping Tantrum:
+	Level Up: None.
+Shadow Bone:
+	Level Up: None.
+Accelerock:
+	Level Up: None.
+Liquidation:
+	Level Up: Spheal @ 25, Sealeo @ 25, Walrein @ 25, Piplup @ 34, Prinplup @ 34, Empoleon @ 34
+Prismatic Laser:
+	Level Up: None.
+Spectral Thief:
+	Level Up: None.
+Sunsteel Strike:
+	Level Up: None.
+Moongeist Beam:
+	Level Up: None.
+Tearful Look:
+	Level Up: None.
+Zing Zap:
+	Level Up: None.
+Nature’s Madness:
+	Level Up: None.
+Multi-Attack:
+	Level Up: None.
+10,000,000 Volt Thunderbolt:
+	Level Up: None.
+Mind Blown:
+	Level Up: None.
+Plasma Fists:
+	Level Up: None.
+Photon Geyser:
+	Level Up: None.
+Light That Burns the Sky:
+	Level Up: None.
+Searing Sunraze Smash:
+	Level Up: None.
+Menacing Moonraze Maelstrom:
+	Level Up: None.
+Let’s Snuggle Forever:
+	Level Up: None.
+Splintered Stormshards:
+	Level Up: None.
+Clangorous Soulblaze:
+	Level Up: None.
+Zippy Zap:
+	Level Up: None.
+Splishy Splash:
+	Level Up: None.
+Floaty Fall:
+	Level Up: None.
+Pika Papow:
+	Level Up: None.
+Bouncy Bubble:
+	Level Up: None.
+Buzzy Buzz:
+	Level Up: None.
+Sizzly Slide:
+	Level Up: None.
+Glitzy Glow:
+	Level Up: None.
+Baddy Bad:
+	Level Up: None.
+Sappy Seed:
+	Level Up: None.
+Freezy Frost:
+	Level Up: None.
+Sparkly Swirl:
+	Level Up: None.
+Veevee Volley:
+	Level Up: None.
+Double Iron Bash:
+	Level Up: None.
+Max Guard:
+	Level Up: None.
+Dynamax Cannon:
+	Level Up: None.
+Snipe Shot:
+	Level Up: None.
+Jaw Lock:
+	Level Up: None.
+Stuff Cheeks:
+	Level Up: None.
+No Retreat:
+	Level Up: None.
+Tar Shot:
+	Level Up: None.
+Magic Powder:
+	Level Up: None.
+Dragon Darts:
+	Level Up: None.
+Teatime:
+	Level Up: None.
+Octolock:
+	Level Up: None.
+Bolt Beak:
+	Level Up: None.
+Fishious Rend:
+	Level Up: None.
+Court Change:
+	Level Up: None.
+Max Flare:
+	Level Up: None.
+Max Flutterby:
+	Level Up: None.
+Max Lightning:
+	Level Up: None.
+Max Strike:
+	Level Up: None.
+Max Knuckle:
+	Level Up: None.
+Max Phantasm:
+	Level Up: None.
+Max Hailstorm:
+	Level Up: None.
+Max Ooze:
+	Level Up: None.
+Max Geyser:
+	Level Up: None.
+Max Airstream:
+	Level Up: None.
+Max Starfall:
+	Level Up: None.
+Max Wyrmwind:
+	Level Up: None.
+Max Mindstorm:
+	Level Up: None.
+Max Rockfall:
+	Level Up: None.
+Max Quake:
+	Level Up: None.
+Max Darkness:
+	Level Up: None.
+Max Overgrowth:
+	Level Up: None.
+Max Steelspike:
+	Level Up: None.
+Clangorous Soul:
+	Level Up: None.
+Body Press:
+	Level Up: None.
+Decorate:
+	Level Up: None.
+Drum Beating:
+	Level Up: None.
+Snap Trap:
+	Level Up: None.
+Pyro Ball:
+	Level Up: None.
+Behemoth Blade:
+	Level Up: None.
+Behemoth Bash:
+	Level Up: None.
+Aura Wheel:
+	Level Up: None.
+Breaking Swipe:
+	Level Up: None.
+Branch Poke:
+	Level Up: None.
+Overdrive:
+	Level Up: None.
+Apple Acid:
+	Level Up: None.
+Grav Apple:
+	Level Up: None.
+Spirit Break:
+	Level Up: None.
+Strange Steam:
+	Level Up: None.
+Life Dew:
+	Level Up: None.
+Obstruct:
+	Level Up: None.
+False Surrender:
+	Level Up: None.
+Meteor Assault:
+	Level Up: None.
+Eternabeam:
+	Level Up: None.
+Steel Beam:
+	Tutors: Magnemite, Magneton, Steelix, Scizor, Empoleon, Shieldon, Bastiodon, Bronzor, Bronzong, Lucario, Magnezone, Probopass, Dialga, Heatran, Arceus, Wormadam-2, Dialga-1, Arceus-1, Arceus-2, Arceus-3, Arceus-4, Arceus-5, Arceus-6, Arceus-7, Arceus-8, Arceus-9, Arceus-10, Arceus-11, Arceus-12, Arceus-13, Arceus-14, Arceus-15, Arceus-16, Arceus-17, Arceus-18, Sliggoo-1, Goodra-1
+	Level Up: None.
+Expanding Force:
+	Level Up: None.
+Steel Roller:
+	Level Up: None.
+Scale Shot:
+	Level Up: None.
+Meteor Beam:
+	Level Up: None.
+Shell Side Arm:
+	Level Up: None.
+Misty Explosion:
+	Level Up: None.
+Grassy Glide:
+	Level Up: None.
+Rising Voltage:
+	Level Up: None.
+Terrain Pulse:
+	Level Up: None.
+Skitter Smack:
+	Level Up: None.
+Burning Jealousy:
+	Level Up: None.
+Lash Out:
+	Level Up: None.
+Poltergeist:
+	Level Up: None.
+Corrosive Gas:
+	Level Up: None.
+Coaching:
+	Level Up: None.
+Flip Turn:
+	Level Up: None.
+Triple Axel:
+	Level Up: None.
+Dual Wingbeat:
+	Level Up: None.
+Scorching Sands:
+	Level Up: None.
+Jungle Healing:
+	Level Up: None.
+Wicked Blow:
+	Level Up: None.
+Surging Strikes:
+	Level Up: None.
+Thunder Cage:
+	Level Up: None.
+Dragon Energy:
+	Level Up: None.
+Freezing Glare:
+	Level Up: None.
+Fiery Wrath:
+	Level Up: None.
+Thunderous Kick:
+	Level Up: None.
+Glacial Lance:
+	Level Up: None.
+Astral Barrage:
+	Level Up: None.
+Eerie Spell:
+	Level Up: None.
+Dire Claw:
+	Level Up: Sneasler @ 11
+Psyshield Bash:
+	Level Up: Stantler @ 21, Wyrdeer @ 21
+Power Shift:
+	Tutors: Gengar, Onix, Mr. Mime, Flareon, Umbreon, Steelix, Mantine, Blissey, Nosepass, Dusclops, Rampardos, Bastiodon, Vespiquen, Drifblim, Chatot, Gliscor, Porygon-Z, Probopass, Dusknoir, Uxie, Azelf, Regigigas, Cresselia, Thundurus, Sneasler, Enamorus, Braviary-1, Thundurus-1, Avalugg-1, Avalugg-2, Enamorus-1
+	Level Up: None.
+Stone Axe:
+	Level Up: Kleavor @ 29, Kleavor-1 @ 29
+Springtide Storm:
+	Level Up: Enamorus @ 52, Enamorus-1 @ 52
+Mystical Power:
+	Level Up: Uxie @ 46, Mesprit @ 46, Azelf @ 46
+Raging Fury:
+	Level Up: Arcanine-1 @ 29, Arcanine-2 @ 29, Infernape @ 46
+Wave Crash:
+	Level Up: Empoleon @ 57, Basculin-2 @ 34, Basculegion @ 34, Basculegion-1 @ 34
+Chloroblast:
+	Level Up: Electrode-1 @ 47, Electrode-2 @ 47
+Mountain Gale:
+	Level Up: Avalugg-1 @ 37, Avalugg-2 @ 37
+Victory Dance:
+	Level Up: Lilligant-1 @ 42, Lilligant-2 @ 42
+Headlong Rush:
+	Level Up: Torterra @ 57, Ursaluna @ 43
+Barb Barrage:
+	Level Up: Qwilfish-1 @ 15, Overqwil @ 15
+Esper Wing:
+	Level Up: Braviary-1 @ 25
+Bitter Malice:
+	Level Up: Zorua-1 @ 18, Zoroark-1 @ 18
+Shelter:
+	Level Up: Goomy @ 34, Sliggoo-1 @ 34, Goodra-1 @ 34
+Triple Arrows:
+	Level Up: Decidueye-1 @ 34
+Infernal Parade:
+	Level Up: Typhlosion-1 @ 40
+Ceaseless Edge:
+	Level Up: Samurott-1 @ 21
+Bleakwind Storm:
+	Level Up: Tornadus @ 52, Tornadus-1 @ 52
+Wildbolt Storm:
+	Level Up: Thundurus @ 52, Thundurus-1 @ 52
+Sandsear Storm:
+	Level Up: Landorus @ 52, Landorus-1 @ 52
+Lunar Blessing:
+	Level Up: Cresselia @ 57
+Take Heart:
+	Level Up: Phione @ 46, Manaphy @ 46

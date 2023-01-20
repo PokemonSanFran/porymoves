@@ -1,0 +1,18 @@
+  {
+    "NatDexNum": 27,
+    "SpeciesName": "",
+    "IsBaseForm": true,
+    "CanHatchFromEgg": true,
+    "FormName": "",
+    "VarName": "",
+    "DefName": "",
+    "SerebiiFormName": null,
+    "SerebiiFormNameAlt": null,
+    "SerebiiURL": null,
+    "SerebiiLevelUpTableName": null,
+    "SerebiiTMTableName": null,
+    "usesBaseFormLearnset": false,
+    "ignoresNearUniversalTMs": false,
+    "isGenderless": false
+  },//"name",
+
