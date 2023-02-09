@@ -65940,9 +65940,60 @@
                 "Level": 91,
                 "Move": "MOVE_HEADLONG_RUSH"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_TAKE_DOWN",
+            "MOVE_MUD_SLAP",
+            "MOVE_SCARY_FACE",
+            "MOVE_PROTECT",
+            "MOVE_FIRE_FANG",
+            "MOVE_THUNDER_FANG",
+            "MOVE_ICE_FANG",
+            "MOVE_FACADE",
+            "MOVE_BULLDOZE",
+            "MOVE_MUD_SHOT",
+            "MOVE_ROCK_TOMB",
+            "MOVE_ENDURE",
+            "MOVE_SUNNY_DAY",
+            "MOVE_SANDSTORM",
+            "MOVE_SMART_STRIKE",
+            "MOVE_PSYSHOCK",
+            "MOVE_DIG",
+            "MOVE_BRICK_BREAK",
+            "MOVE_ZEN_HEADBUTT",
+            "MOVE_BULK_UP",
+            "MOVE_BODY_SLAM",
+            "MOVE_SLEEP_TALK",
+            "MOVE_STOMPING_TANTRUM",
+            "MOVE_REST",
+            "MOVE_ROCK_SLIDE",
+            "MOVE_TAUNT",
+            "MOVE_BODY_PRESS",
+            "MOVE_FLASH_CANNON",
+            "MOVE_IRON_HEAD",
+            "MOVE_SUBSTITUTE",
+            "MOVE_STEALTH_ROCK",
+            "MOVE_HEAVY_SLAM",
+            "MOVE_ICE_SPINNER",
+            "MOVE_PLAY_ROUGH",
+            "MOVE_EARTH_POWER",
+            "MOVE_REVERSAL",
+            "MOVE_EARTHQUAKE",
+            "MOVE_STONE_EDGE",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_HYPER_BEAM",
+            "MOVE_CLOSE_COMBAT",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "SCREAM TAIL":
+    "SCREAM_TAIL":
     {
         "LevelMoves":
         [
@@ -66010,9 +66061,81 @@
                 "Level": 91,
                 "Move": "MOVE_BOOMBURST"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_TAKE_DOWN",
+            "MOVE_FAKE_TEARS",
+            "MOVE_SCARY_FACE",
+            "MOVE_PROTECT",
+            "MOVE_FIRE_FANG",
+            "MOVE_THUNDER_FANG",
+            "MOVE_ICE_FANG",
+            "MOVE_WATER_PULSE",
+            "MOVE_PSYBEAM",
+            "MOVE_FACADE",
+            "MOVE_ROCK_TOMB",
+            "MOVE_STORED_POWER",
+            "MOVE_FLING",
+            "MOVE_ENDURE",
+            "MOVE_SUNNY_DAY",
+            "MOVE_RAIN_DANCE",
+            "MOVE_SANDSTORM",
+            "MOVE_SNOWSCAPE",
+            "MOVE_PSYSHOCK",
+            "MOVE_DIG",
+            "MOVE_ZEN_HEADBUTT",
+            "MOVE_PSYCHIC_FANGS",
+            "MOVE_BULK_UP",
+            "MOVE_BODY_SLAM",
+            "MOVE_FIRE_PUNCH",
+            "MOVE_THUNDER_PUNCH",
+            "MOVE_ICE_PUNCH",
+            "MOVE_SLEEP_TALK",
+            "MOVE_DRAIN_PUNCH",
+            "MOVE_REFLECT",
+            "MOVE_LIGHT_SCREEN",
+            "MOVE_DAZZLING_GLEAM",
+            "MOVE_METRONOME",
+            "MOVE_GRASS_KNOT",
+            "MOVE_THUNDER_WAVE",
+            "MOVE_STOMPING_TANTRUM",
+            "MOVE_REST",
+            "MOVE_IMPRISON",
+            "MOVE_SUBSTITUTE",
+            "MOVE_CRUNCH",
+            "MOVE_TRICK",
+            "MOVE_STEALTH_ROCK",
+            "MOVE_HYPER_VOICE",
+            "MOVE_PSYCHIC",
+            "MOVE_ENCORE",
+            "MOVE_FLAMETHROWER",
+            "MOVE_THUNDERBOLT",
+            "MOVE_PLAY_ROUGH",
+            "MOVE_AMNESIA",
+            "MOVE_CALM_MIND",
+            "MOVE_HELPING_HAND",
+            "MOVE_BATON_PASS",
+            "MOVE_ICE_BEAM",
+            "MOVE_PSYCHIC_TERRAIN",
+            "MOVE_MISTY_TERRAIN",
+            "MOVE_FIRE_BLAST",
+            "MOVE_BLIZZARD",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_FOCUS_BLAST",
+            "MOVE_TRICK_ROOM",
+            "MOVE_HYPER_BEAM",
+            "MOVE_THUNDER",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "BRUTE BONNET":
+    "BRUTE_BONNET":
     {
         "LevelMoves":
         [
@@ -66076,9 +66199,54 @@
                 "Level": 91,
                 "Move": "MOVE_SOLAR_BEAM"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_SCARY_FACE",
+            "MOVE_PROTECT",
+            "MOVE_CONFUSE_RAY",
+            "MOVE_THIEF",
+            "MOVE_TRAILBLAZE",
+            "MOVE_FACADE",
+            "MOVE_HEX",
+            "MOVE_MAGICAL_LEAF",
+            "MOVE_VENOSHOCK",
+            "MOVE_ENDURE",
+            "MOVE_SUNNY_DAY",
+            "MOVE_BULLET_SEED",
+            "MOVE_ZEN_HEADBUTT",
+            "MOVE_BODY_SLAM",
+            "MOVE_SLEEP_TALK",
+            "MOVE_SEED_BOMB",
+            "MOVE_GRASS_KNOT",
+            "MOVE_STOMPING_TANTRUM",
+            "MOVE_REST",
+            "MOVE_TAUNT",
+            "MOVE_BODY_PRESS",
+            "MOVE_DARK_PULSE",
+            "MOVE_SUBSTITUTE",
+            "MOVE_CRUNCH",
+            "MOVE_GIGA_DRAIN",
+            "MOVE_ENERGY_BALL",
+            "MOVE_POLLEN_PUFF",
+            "MOVE_EARTH_POWER",
+            "MOVE_GRASSY_TERRAIN",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_OUTRAGE",
+            "MOVE_LEAF_STORM",
+            "MOVE_HYPER_BEAM",
+            "MOVE_CLOSE_COMBAT",
+            "MOVE_SOLAR_BEAM",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "FLUTTER MANE":
+    "FLUTTER_MANE":
     {
         "LevelMoves":
         [
@@ -66146,9 +66314,57 @@
                 "Level": 91,
                 "Move": "MOVE_PERISH_SONG"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_CHARM",
+            "MOVE_FAKE_TEARS",
+            "MOVE_PROTECT",
+            "MOVE_PSYBEAM",
+            "MOVE_CONFUSE_RAY",
+            "MOVE_DISARMING_VOICE",
+            "MOVE_CHARGE_BEAM",
+            "MOVE_HEX",
+            "MOVE_SWIFT",
+            "MOVE_MAGICAL_LEAF",
+            "MOVE_ICY_WIND",
+            "MOVE_DRAINING_KISS",
+            "MOVE_STORED_POWER",
+            "MOVE_NIGHT_SHADE",
+            "MOVE_ENDURE",
+            "MOVE_SUNNY_DAY",
+            "MOVE_PSYSHOCK",
+            "MOVE_SLEEP_TALK",
+            "MOVE_DAZZLING_GLEAM",
+            "MOVE_THUNDER_WAVE",
+            "MOVE_REST",
+            "MOVE_TAUNT",
+            "MOVE_IMPRISON",
+            "MOVE_DARK_PULSE",
+            "MOVE_POWER_GEM",
+            "MOVE_SUBSTITUTE",
+            "MOVE_SHADOW_BALL",
+            "MOVE_HYPER_VOICE",
+            "MOVE_ENERGY_BALL",
+            "MOVE_THUNDERBOLT",
+            "MOVE_CALM_MIND",
+            "MOVE_HELPING_HAND",
+            "MOVE_MISTY_TERRAIN",
+            "MOVE_PHANTOM_FORCE",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_TRICK_ROOM",
+            "MOVE_HYPER_BEAM",
+            "MOVE_THUNDER",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "SLITHER WING":
+    "SLITHER_WING":
     {
         "LevelMoves":
         [
@@ -66220,9 +66436,56 @@
                 "Level": 91,
                 "Move": "MOVE_THRASH"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_TAKE_DOWN",
+            "MOVE_PROTECT",
+            "MOVE_LOW_KICK",
+            "MOVE_ACROBATICS",
+            "MOVE_TRAILBLAZE",
+            "MOVE_FACADE",
+            "MOVE_AERIAL_ACE",
+            "MOVE_FLAME_CHARGE",
+            "MOVE_LOW_SWEEP",
+            "MOVE_ENDURE",
+            "MOVE_SUNNY_DAY",
+            "MOVE_RAIN_DANCE",
+            "MOVE_SANDSTORM",
+            "MOVE_BRICK_BREAK",
+            "MOVE_ZEN_HEADBUTT",
+            "MOVE_U_TURN",
+            "MOVE_BULK_UP",
+            "MOVE_BODY_SLAM",
+            "MOVE_SLEEP_TALK",
+            "MOVE_STOMPING_TANTRUM",
+            "MOVE_REST",
+            "MOVE_BODY_PRESS",
+            "MOVE_LEECH_LIFE",
+            "MOVE_SUBSTITUTE",
+            "MOVE_WILL_O_WISP",
+            "MOVE_GIGA_DRAIN",
+            "MOVE_HEAT_WAVE",
+            "MOVE_HEAVY_SLAM",
+            "MOVE_REVERSAL",
+            "MOVE_WILD_CHARGE",
+            "MOVE_EARTHQUAKE",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_HURRICANE",
+            "MOVE_BUG_BUZZ",
+            "MOVE_HYPER_BEAM",
+            "MOVE_FLARE_BLITZ",
+            "MOVE_CLOSE_COMBAT",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "SANDY SHOCKS":
+    "SANDY_SHOCKS":
     {
         "LevelMoves":
         [
@@ -66294,9 +66557,55 @@
                 "Level": 91,
                 "Move": "MOVE_MAGNETIC_FLUX"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_TAKE_DOWN",
+            "MOVE_PROTECT",
+            "MOVE_CHARGE_BEAM",
+            "MOVE_FACADE",
+            "MOVE_BULLDOZE",
+            "MOVE_SWIFT",
+            "MOVE_MUD_SHOT",
+            "MOVE_ENDURE",
+            "MOVE_VOLT_SWITCH",
+            "MOVE_SUNNY_DAY",
+            "MOVE_SANDSTORM",
+            "MOVE_BODY_SLAM",
+            "MOVE_SLEEP_TALK",
+            "MOVE_ELECTRO_BALL",
+            "MOVE_REFLECT",
+            "MOVE_LIGHT_SCREEN",
+            "MOVE_THUNDER_WAVE",
+            "MOVE_STOMPING_TANTRUM",
+            "MOVE_REST",
+            "MOVE_BODY_PRESS",
+            "MOVE_SPIKES",
+            "MOVE_FLASH_CANNON",
+            "MOVE_EERIE_IMPULSE",
+            "MOVE_POWER_GEM",
+            "MOVE_SUBSTITUTE",
+            "MOVE_IRON_DEFENSE",
+            "MOVE_STEALTH_ROCK",
+            "MOVE_HEAVY_SLAM",
+            "MOVE_THUNDERBOLT",
+            "MOVE_EARTH_POWER",
+            "MOVE_ELECTRIC_TERRAIN",
+            "MOVE_WILD_CHARGE",
+            "MOVE_EARTHQUAKE",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_HYPER_BEAM",
+            "MOVE_THUNDER",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "IRON TREADS":
+    "IRON_TREADS":
     {
         "LevelMoves":
         [
@@ -66364,9 +66673,55 @@
                 "Level": 91,
                 "Move": "MOVE_STEEL_ROLLER"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_TAKE_DOWN",
+            "MOVE_MUD_SLAP",
+            "MOVE_SCARY_FACE",
+            "MOVE_PROTECT",
+            "MOVE_THUNDER_FANG",
+            "MOVE_ICE_FANG",
+            "MOVE_FACADE",
+            "MOVE_BULLDOZE",
+            "MOVE_MUD_SHOT",
+            "MOVE_ROCK_TOMB",
+            "MOVE_VOLT_SWITCH",
+            "MOVE_SANDSTORM",
+            "MOVE_SMART_STRIKE",
+            "MOVE_ZEN_HEADBUTT",
+            "MOVE_BODY_SLAM",
+            "MOVE_ELECTRO_BALL",
+            "MOVE_STOMPING_TANTRUM",
+            "MOVE_REST",
+            "MOVE_ROCK_SLIDE",
+            "MOVE_BODY_PRESS",
+            "MOVE_FLASH_CANNON",
+            "MOVE_IRON_HEAD",
+            "MOVE_SUBSTITUTE",
+            "MOVE_IRON_DEFENSE",
+            "MOVE_STEALTH_ROCK",
+            "MOVE_HEAVY_SLAM",
+            "MOVE_ICE_SPINNER",
+            "MOVE_EARTH_POWER",
+            "MOVE_ELECTRIC_TERRAIN",
+            "MOVE_WILD_CHARGE",
+            "MOVE_EARTHQUAKE",
+            "MOVE_STONE_EDGE",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_HYPER_BEAM",
+            "MOVE_THUNDER",
+            "MOVE_STEEL_BEAM",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "IRON BUNDLE":
+    "IRON_BUNDLE":
     {
         "LevelMoves":
         [
@@ -66426,9 +66781,52 @@
                 "Level": 91,
                 "Move": "MOVE_BLIZZARD"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_TAKE_DOWN",
+            "MOVE_AGILITY",
+            "MOVE_PROTECT",
+            "MOVE_WATER_PULSE",
+            "MOVE_ACROBATICS",
+            "MOVE_THIEF",
+            "MOVE_CHILLING_WATER",
+            "MOVE_FACADE",
+            "MOVE_SWIFT",
+            "MOVE_ICY_WIND",
+            "MOVE_AIR_CUTTER",
+            "MOVE_FLING",
+            "MOVE_AVALANCHE",
+            "MOVE_ENDURE",
+            "MOVE_RAIN_DANCE",
+            "MOVE_SNOWSCAPE",
+            "MOVE_U_TURN",
+            "MOVE_BODY_SLAM",
+            "MOVE_ICE_PUNCH",
+            "MOVE_SLEEP_TALK",
+            "MOVE_REST",
+            "MOVE_TAUNT",
+            "MOVE_SUBSTITUTE",
+            "MOVE_ENCORE",
+            "MOVE_ICE_SPINNER",
+            "MOVE_PLAY_ROUGH",
+            "MOVE_HELPING_HAND",
+            "MOVE_ICE_BEAM",
+            "MOVE_ELECTRIC_TERRAIN",
+            "MOVE_HYDRO_PUMP",
+            "MOVE_BLIZZARD",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_HYPER_BEAM",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "IRON HANDS":
+    "IRON_HANDS":
     {
         "LevelMoves":
         [
@@ -66500,9 +66898,58 @@
                 "Level": 91,
                 "Move": "MOVE_FOCUS_PUNCH"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_TAKE_DOWN",
+            "MOVE_SCARY_FACE",
+            "MOVE_PROTECT",
+            "MOVE_LOW_KICK",
+            "MOVE_FACADE",
+            "MOVE_BULLDOZE",
+            "MOVE_ROCK_TOMB",
+            "MOVE_LOW_SWEEP",
+            "MOVE_FLING",
+            "MOVE_ENDURE",
+            "MOVE_VOLT_SWITCH",
+            "MOVE_BRICK_BREAK",
+            "MOVE_BODY_SLAM",
+            "MOVE_FIRE_PUNCH",
+            "MOVE_THUNDER_PUNCH",
+            "MOVE_ICE_PUNCH",
+            "MOVE_SLEEP_TALK",
+            "MOVE_DRAIN_PUNCH",
+            "MOVE_METRONOME",
+            "MOVE_STOMPING_TANTRUM",
+            "MOVE_REST",
+            "MOVE_ROCK_SLIDE",
+            "MOVE_SWORDS_DANCE",
+            "MOVE_BODY_PRESS",
+            "MOVE_IRON_HEAD",
+            "MOVE_SUBSTITUTE",
+            "MOVE_IRON_DEFENSE",
+            "MOVE_HEAVY_SLAM",
+            "MOVE_THUNDERBOLT",
+            "MOVE_PLAY_ROUGH",
+            "MOVE_REVERSAL",
+            "MOVE_ELECTRIC_TERRAIN",
+            "MOVE_WILD_CHARGE",
+            "MOVE_EARTHQUAKE",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_FOCUS_BLAST",
+            "MOVE_HYPER_BEAM",
+            "MOVE_THUNDER",
+            "MOVE_CLOSE_COMBAT",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "IRON JUGULIS":
+    "IRON_JUGULIS":
     {
         "LevelMoves":
         [
@@ -66574,9 +67021,60 @@
                 "Level": 91,
                 "Move": "MOVE_HYPER_BEAM"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_TAKE_DOWN",
+            "MOVE_SCARY_FACE",
+            "MOVE_PROTECT",
+            "MOVE_FIRE_FANG",
+            "MOVE_ACROBATICS",
+            "MOVE_CHARGE_BEAM",
+            "MOVE_FACADE",
+            "MOVE_SNARL",
+            "MOVE_ROCK_TOMB",
+            "MOVE_AIR_CUTTER",
+            "MOVE_DRAGON_TAIL",
+            "MOVE_ENDURE",
+            "MOVE_SUNNY_DAY",
+            "MOVE_RAIN_DANCE",
+            "MOVE_ZEN_HEADBUTT",
+            "MOVE_U_TURN",
+            "MOVE_AIR_SLASH",
+            "MOVE_BODY_SLAM",
+            "MOVE_SLEEP_TALK",
+            "MOVE_REST",
+            "MOVE_TAUNT",
+            "MOVE_FLASH_CANNON",
+            "MOVE_DARK_PULSE",
+            "MOVE_FLY",
+            "MOVE_IRON_HEAD",
+            "MOVE_SUBSTITUTE",
+            "MOVE_CRUNCH",
+            "MOVE_TAILWIND",
+            "MOVE_DRAGON_PULSE",
+            "MOVE_HYPER_VOICE",
+            "MOVE_HEAT_WAVE",
+            "MOVE_FLAMETHROWER",
+            "MOVE_EARTH_POWER",
+            "MOVE_ELECTRIC_TERRAIN",
+            "MOVE_FIRE_BLAST",
+            "MOVE_HYDRO_PUMP",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_OUTRAGE",
+            "MOVE_FOCUS_BLAST",
+            "MOVE_HURRICANE",
+            "MOVE_HYPER_BEAM",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "IRON MOTH":
+    "IRON_MOTH":
     {
         "LevelMoves":
         [
@@ -66648,9 +67146,58 @@
                 "Level": 91,
                 "Move": "MOVE_OVERHEAT"
             }
-        ]
+        ],
+        "PreEvoMoves":
+        [],
+        "TMMoves":
+        [
+            "MOVE_TAKE_DOWN",
+            "MOVE_AGILITY",
+            "MOVE_PROTECT",
+            "MOVE_ACID_SPRAY",
+            "MOVE_ACROBATICS",
+            "MOVE_STRUGGLE_BUG",
+            "MOVE_CONFUSE_RAY",
+            "MOVE_POUNCE",
+            "MOVE_CHARGE_BEAM",
+            "MOVE_FIRE_SPIN",
+            "MOVE_FACADE",
+            "MOVE_SWIFT",
+            "MOVE_FLAME_CHARGE",
+            "MOVE_VENOSHOCK",
+            "MOVE_ENDURE",
+            "MOVE_SUNNY_DAY",
+            "MOVE_U_TURN",
+            "MOVE_AIR_SLASH",
+            "MOVE_SLEEP_TALK",
+            "MOVE_LIGHT_SCREEN",
+            "MOVE_DAZZLING_GLEAM",
+            "MOVE_REST",
+            "MOVE_TOXIC_SPIKES",
+            "MOVE_FLASH_CANNON",
+            "MOVE_SUBSTITUTE",
+            "MOVE_HEAT_WAVE",
+            "MOVE_ENERGY_BALL",
+            "MOVE_PSYCHIC",
+            "MOVE_FLAMETHROWER",
+            "MOVE_HELPING_HAND",
+            "MOVE_ELECTRIC_TERRAIN",
+            "MOVE_FIRE_BLAST",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_OVERHEAT",
+            "MOVE_HURRICANE",
+            "MOVE_BUG_BUZZ",
+            "MOVE_HYPER_BEAM",
+            "MOVE_FLARE_BLITZ",
+            "MOVE_SOLAR_BEAM",
+            "MOVE_TERA_BLAST"
+        ],
+        "EggMoves":
+        [],
+        "TutorMoves":
+        []
     },
-    "IRON THORNS":
+    "IRON_THORNS":
     {
         "LevelMoves":
         [
@@ -66668,11 +67215,11 @@
             },
             {
                 "Level": 1,
-                "Move": "MOVE_IRON_DEFENSE"
+                "Move": "MOVE_THUNDER_FANG"
             },
             {
                 "Level": 1,
-                "Move": "MOVE_THUNDER_FANG"
+                "Move": "MOVE_IRON_DEFENSE"
             },
             {
                 "Level": 7,
@@ -66722,102 +67269,75 @@
                 "Level": 91,
                 "Move": "MOVE_GIGA_IMPACT"
             }
-        ]
-    },
-    "FRIGIBAX":
-    {
-        "LevelMoves":
-        [
-            {
-                "Level": 1,
-                "Move": "MOVE_TACKLE"
-            },
-            {
-                "Level": 1,
-                "Move": "MOVE_LEER"
-            },
-            {
-                "Level": 1,
-                "Move": "MOVE_DRAGON_TAIL"
-            },
-            {
-                "Level": 6,
-                "Move": "MOVE_ICY_WIND"
-            },
-            {
-                "Level": 12,
-                "Move": "MOVE_DRAGON_BREATH"
-            },
-            {
-                "Level": 18,
-                "Move": "MOVE_FOCUS_ENERGY"
-            },
-            {
-                "Level": 24,
-                "Move": "MOVE_BITE"
-            },
-            {
-                "Level": 29,
-                "Move": "MOVE_ICE_FANG"
-            },
-            {
-                "Level": 32,
-                "Move": "MOVE_DRAGON_CLAW"
-            },
-            {
-                "Level": 36,
-                "Move": "MOVE_TAKE_DOWN"
-            },
-            {
-                "Level": 40,
-                "Move": "MOVE_ICE_BEAM"
-            },
-            {
-                "Level": 44,
-                "Move": "MOVE_CRUNCH"
-            },
-            {
-                "Level": 48,
-                "Move": "MOVE_ICICLE_CRASH"
-            }
         ],
         "PreEvoMoves":
         [],
         "TMMoves":
         [
             "MOVE_TAKE_DOWN",
+            "MOVE_SCARY_FACE",
             "MOVE_PROTECT",
+            "MOVE_FIRE_FANG",
+            "MOVE_THUNDER_FANG",
             "MOVE_ICE_FANG",
+            "MOVE_LOW_KICK",
+            "MOVE_CHARGE_BEAM",
             "MOVE_FACADE",
-            "MOVE_ICY_WIND",
+            "MOVE_BULLDOZE",
+            "MOVE_SNARL",
+            "MOVE_METAL_CLAW",
+            "MOVE_ROCK_TOMB",
+            "MOVE_FLING",
             "MOVE_DRAGON_TAIL",
-            "MOVE_AVALANCHE",
             "MOVE_ENDURE",
+            "MOVE_VOLT_SWITCH",
+            "MOVE_SUNNY_DAY",
             "MOVE_RAIN_DANCE",
-            "MOVE_SNOWSCAPE",
+            "MOVE_SANDSTORM",
             "MOVE_DIG",
+            "MOVE_BRICK_BREAK",
             "MOVE_BODY_SLAM",
-            "MOVE_SLEEP_TALK",
+            "MOVE_FIRE_PUNCH",
+            "MOVE_THUNDER_PUNCH",
+            "MOVE_ICE_PUNCH",
+            "MOVE_ELECTRO_BALL",
+            "MOVE_ROCK_BLAST",
             "MOVE_DRAGON_CLAW",
+            "MOVE_THUNDER_WAVE",
+            "MOVE_STOMPING_TANTRUM",
             "MOVE_REST",
+            "MOVE_ROCK_SLIDE",
+            "MOVE_TAUNT",
             "MOVE_SWORDS_DANCE",
+            "MOVE_BODY_PRESS",
+            "MOVE_SPIKES",
+            "MOVE_EERIE_IMPULSE",
+            "MOVE_IRON_HEAD",
+            "MOVE_DRAGON_DANCE",
+            "MOVE_POWER_GEM",
             "MOVE_SUBSTITUTE",
+            "MOVE_IRON_DEFENSE",
             "MOVE_CRUNCH",
-            "MOVE_DRAGON_PULSE",
-            "MOVE_HELPING_HAND",
+            "MOVE_STEALTH_ROCK",
+            "MOVE_HEAVY_SLAM",
+            "MOVE_FLAMETHROWER",
+            "MOVE_THUNDERBOLT",
+            "MOVE_EARTH_POWER",
             "MOVE_ICE_BEAM",
+            "MOVE_ELECTRIC_TERRAIN",
+            "MOVE_FIRE_BLAST",
             "MOVE_BLIZZARD",
-            "MOVE_OUTRAGE",
-            "MOVE_DRACO_METEOR",
+            "MOVE_WILD_CHARGE",
+            "MOVE_EARTHQUAKE",
+            "MOVE_STONE_EDGE",
+            "MOVE_GIGA_IMPACT",
+            "MOVE_FOCUS_BLAST",
+            "MOVE_HYPER_BEAM",
+            "MOVE_THUNDER",
             "MOVE_TERA_BLAST"
         ],
         "EggMoves":
-        [
-            "MOVE_AQUA_TAIL",
-            "MOVE_DRAGON_RUSH",
-            "MOVE_FREEZE_DRY",
-            "MOVE_ICICLE_SPEAR"
-        ],
+        [],
         "TutorMoves":
         []
     },
